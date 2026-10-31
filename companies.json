@@ -1,0 +1,5357 @@
+[
+  {
+    "name": "11Bitstudios",
+    "source": "recruitee",
+    "slug": "11bitstudios",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "12Build",
+    "source": "recruitee",
+    "slug": "12build",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "15Five",
+    "source": "lever",
+    "slug": "15five",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "1Password",
+    "source": "ashby",
+    "slug": "1password",
+    "sector": "Cybersecurity",
+    "guess": true
+  },
+  {
+    "name": "2U",
+    "source": "greenhouse",
+    "slug": "2u",
+    "sector": "Edtech",
+    "guess": true
+  },
+  {
+    "name": "60Secondstonapoli",
+    "source": "recruitee",
+    "slug": "60secondstonapoli",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "a16z crypto",
+    "source": "ashby",
+    "slug": "a16z-crypto",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Aaff",
+    "source": "recruitee",
+    "slug": "aaff",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Abbategastrogmbh",
+    "source": "recruitee",
+    "slug": "abbategastrogmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Abfgroup",
+    "source": "recruitee",
+    "slug": "abfgroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Abnormal Security",
+    "source": "greenhouse",
+    "slug": "abnormalsecurity",
+    "sector": "Cybersecurity",
+    "guess": true
+  },
+  {
+    "name": "Academyofdigitalindustries",
+    "source": "recruitee",
+    "slug": "academyofdigitalindustries",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Accenture",
+    "source": "page",
+    "slug": "https://www.accenture.com/in-en/careers/",
+    "sector": "Consulting & Big 4"
+  },
+  {
+    "name": "Adamsmithinternational1",
+    "source": "recruitee",
+    "slug": "adamsmithinternational1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Adobe",
+    "source": "page",
+    "slug": "https://www.adobe.com/careers/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Adstronauts",
+    "source": "recruitee",
+    "slug": "adstronauts",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Advancedforcesgroup",
+    "source": "recruitee",
+    "slug": "advancedforcesgroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Advancedprotectionsystems",
+    "source": "recruitee",
+    "slug": "advancedprotectionsystems",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Advancy",
+    "source": "recruitee",
+    "slug": "advancy",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Adyen",
+    "source": "greenhouse",
+    "slug": "adyen",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Aedifion",
+    "source": "recruitee",
+    "slug": "aedifion",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Aerodesignworksgmbh",
+    "source": "recruitee",
+    "slug": "aerodesignworksgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Affirm",
+    "source": "greenhouse",
+    "slug": "affirm",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Afsenergy",
+    "source": "recruitee",
+    "slug": "afsenergy",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Agaseurope",
+    "source": "recruitee",
+    "slug": "agaseurope",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Ahcgmbh",
+    "source": "recruitee",
+    "slug": "ahcgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Aidigital",
+    "source": "recruitee",
+    "slug": "aidigital",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Aikidosecurity",
+    "source": "recruitee",
+    "slug": "aikidosecurity",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Airbnb",
+    "source": "greenhouse",
+    "slug": "airbnb",
+    "sector": "Product & Tech — Global",
+    "guess": true
+  },
+  {
+    "name": "Airbyte",
+    "source": "ashby",
+    "slug": "airbyte",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Airtable",
+    "source": "greenhouse",
+    "slug": "airtable",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Airtel",
+    "source": "page",
+    "slug": "https://www.airtel.in/careers/",
+    "sector": "Telecom"
+  },
+  {
+    "name": "Airwallex",
+    "source": "ashby",
+    "slug": "airwallex",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Alchemy",
+    "source": "ashby",
+    "slug": "alchemy",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Algolia",
+    "source": "greenhouse",
+    "slug": "algolia",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Alliade",
+    "source": "recruitee",
+    "slug": "alliade",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Allshoretalent",
+    "source": "recruitee",
+    "slug": "allshoretalent",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Allyourbi",
+    "source": "recruitee",
+    "slug": "allyourbi",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Alsachimie",
+    "source": "recruitee",
+    "slug": "alsachimie",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Altiussearchgroup",
+    "source": "recruitee",
+    "slug": "altiussearchgroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Amazon",
+    "source": "page",
+    "slug": "https://www.amazon.jobs/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "AMD",
+    "source": "jsonld",
+    "slug": "https://careers.amd.com/sitemap.xml",
+    "sector": "Semiconductor & Hardware"
+  },
+  {
+    "name": "American Express",
+    "source": "page",
+    "slug": "https://aexp.eightfold.ai/careers/",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Americanlibraryinparis",
+    "source": "recruitee",
+    "slug": "americanlibraryinparis",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Amiparis",
+    "source": "recruitee",
+    "slug": "amiparis",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Amplitude",
+    "source": "ashby",
+    "slug": "amplitude",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Amsta",
+    "source": "recruitee",
+    "slug": "amsta",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Anchorage",
+    "source": "lever",
+    "slug": "anchorage",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Anchr",
+    "source": "recruitee",
+    "slug": "anchr",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Andela",
+    "source": "ashby",
+    "slug": "andela",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Anteagroup",
+    "source": "recruitee",
+    "slug": "anteagroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Anthropic",
+    "source": "greenhouse",
+    "slug": "anthropic",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Antonivanleeuwenhoek",
+    "source": "recruitee",
+    "slug": "antonivanleeuwenhoek",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Anyscale",
+    "source": "lever",
+    "slug": "anyscale",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Anywhereworks",
+    "source": "recruitee",
+    "slug": "anywhereworks",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Apolloventures",
+    "source": "recruitee",
+    "slug": "apolloventures",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Apple",
+    "source": "page",
+    "slug": "https://jobs.apple.com/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Aquablu",
+    "source": "recruitee",
+    "slug": "aquablu",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Arealytics",
+    "source": "recruitee",
+    "slug": "arealytics",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Arsipa",
+    "source": "recruitee",
+    "slug": "arsipa",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Asana",
+    "source": "greenhouse",
+    "slug": "asana",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Ashby",
+    "source": "ashby",
+    "slug": "ashby",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Asksuite",
+    "source": "recruitee",
+    "slug": "asksuite",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Astonjet",
+    "source": "recruitee",
+    "slug": "astonjet",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Atasssports",
+    "source": "recruitee",
+    "slug": "atasssports",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Athora",
+    "source": "recruitee",
+    "slug": "athora",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Atlan",
+    "source": "ashby",
+    "slug": "atlan",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Atlassian",
+    "source": "page",
+    "slug": "https://www.atlassian.com/company/careers/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Atosborne",
+    "source": "recruitee",
+    "slug": "atosborne",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Atostek",
+    "source": "recruitee",
+    "slug": "atostek",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Attendi",
+    "source": "recruitee",
+    "slug": "attendi",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Autexisag",
+    "source": "recruitee",
+    "slug": "autexisag",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Automation",
+    "source": "recruitee",
+    "slug": "automation",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Avantageplus",
+    "source": "recruitee",
+    "slug": "avantageplus",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Avantarte",
+    "source": "recruitee",
+    "slug": "avantarte",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Avencell",
+    "source": "recruitee",
+    "slug": "avencell",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Aveniq",
+    "source": "recruitee",
+    "slug": "aveniq",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Axi",
+    "source": "recruitee",
+    "slug": "axi",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Azubi",
+    "source": "recruitee",
+    "slug": "azubi",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Azumuta",
+    "source": "recruitee",
+    "slug": "azumuta",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Baeckereiburger",
+    "source": "recruitee",
+    "slug": "baeckereiburger",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bakkersteamservicesbv",
+    "source": "recruitee",
+    "slug": "bakkersteamservicesbv",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Balchem",
+    "source": "recruitee",
+    "slug": "balchem",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Ballastnedam",
+    "source": "recruitee",
+    "slug": "ballastnedam",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bandwidth",
+    "source": "greenhouse",
+    "slug": "bandwidth",
+    "sector": "Telecom",
+    "guess": true
+  },
+  {
+    "name": "Baobabinsurancegmbh",
+    "source": "recruitee",
+    "slug": "baobabinsurancegmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Barclays",
+    "source": "page",
+    "slug": "https://home.barclays/careers/",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Barentskrans",
+    "source": "recruitee",
+    "slug": "barentskrans",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bartimeus",
+    "source": "recruitee",
+    "slug": "bartimeus",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bbht",
+    "source": "recruitee",
+    "slug": "bbht",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Beamery",
+    "source": "ashby",
+    "slug": "beamery",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Befood",
+    "source": "recruitee",
+    "slug": "befood",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Benfatto",
+    "source": "recruitee",
+    "slug": "benfatto",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Benqeuropebv",
+    "source": "recruitee",
+    "slug": "benqeuropebv",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bergbahnkarriere",
+    "source": "recruitee",
+    "slug": "bergbahnkarriere",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Beslistnl",
+    "source": "recruitee",
+    "slug": "beslistnl",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Betomorrow",
+    "source": "recruitee",
+    "slug": "betomorrow",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bettercollective",
+    "source": "recruitee",
+    "slug": "bettercollective",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Betterment",
+    "source": "greenhouse",
+    "slug": "betterment",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Bigcartel",
+    "source": "recruitee",
+    "slug": "bigcartel",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bill.com",
+    "source": "greenhouse",
+    "slug": "billcom",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Binance",
+    "source": "greenhouse",
+    "slug": "binance",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Birlasoft",
+    "source": "page",
+    "slug": "https://www.birlasoft.com/careers/",
+    "sector": "IT Services"
+  },
+  {
+    "name": "BitGo",
+    "source": "greenhouse",
+    "slug": "bitgo",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Bitpanda",
+    "source": "greenhouse",
+    "slug": "bitpanda",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Blinkit",
+    "source": "page",
+    "slug": "https://blinkit.com/careers",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Block",
+    "source": "greenhouse",
+    "slug": "block",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Bluecrux",
+    "source": "recruitee",
+    "slug": "bluecrux",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Blueforest",
+    "source": "recruitee",
+    "slug": "blueforest",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bluelakefineartscamp",
+    "source": "recruitee",
+    "slug": "bluelakefineartscamp",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "BNY Mellon",
+    "source": "page",
+    "slug": "https://careers.bnymellon.com/",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Boggimilano1",
+    "source": "recruitee",
+    "slug": "boggimilano1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bolster",
+    "source": "recruitee",
+    "slug": "bolster",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bonial",
+    "source": "recruitee",
+    "slug": "bonial",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bounce",
+    "source": "ashby",
+    "slug": "bounce",
+    "sector": "EV & AutoTech",
+    "guess": true
+  },
+  {
+    "name": "Braze",
+    "source": "greenhouse",
+    "slug": "braze",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Brenger",
+    "source": "recruitee",
+    "slug": "brenger",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Brex",
+    "source": "greenhouse",
+    "slug": "brex",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Bridgefund",
+    "source": "recruitee",
+    "slug": "bridgefund",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Broadcom",
+    "source": "page",
+    "slug": "https://careers.broadcom.com/",
+    "sector": "Semiconductor & Hardware"
+  },
+  {
+    "name": "BrowserStack",
+    "source": "page",
+    "slug": "https://www.browserstack.com/careers",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Bti",
+    "source": "recruitee",
+    "slug": "bti",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bukoinfrasupport",
+    "source": "recruitee",
+    "slug": "bukoinfrasupport",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bukowaakt",
+    "source": "recruitee",
+    "slug": "bukowaakt",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bungemagdeburggmbh",
+    "source": "recruitee",
+    "slug": "bungemagdeburggmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bwhhotelsemea",
+    "source": "recruitee",
+    "slug": "bwhhotelsemea",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bwkduisburggmbh",
+    "source": "recruitee",
+    "slug": "bwkduisburggmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Bybit",
+    "source": "greenhouse",
+    "slug": "bybit",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Calendly",
+    "source": "greenhouse",
+    "slug": "calendly",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Capgemini",
+    "source": "page",
+    "slug": "https://www.capgemini.com/in-en/careers/",
+    "sector": "Consulting & Big 4"
+  },
+  {
+    "name": "Carbonbetter",
+    "source": "recruitee",
+    "slug": "carbonbetter",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Careersdeltacapita",
+    "source": "recruitee",
+    "slug": "careersdeltacapita",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Careexpert",
+    "source": "recruitee",
+    "slug": "careexpert",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Careyn",
+    "source": "recruitee",
+    "slug": "careyn",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Caritasgesundheitberlinggmbh",
+    "source": "recruitee",
+    "slug": "caritasgesundheitberlinggmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Carta",
+    "source": "greenhouse",
+    "slug": "carta",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Causalens",
+    "source": "recruitee",
+    "slug": "causalens",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Cb",
+    "source": "recruitee",
+    "slug": "cb",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Cce",
+    "source": "recruitee",
+    "slug": "cce",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Ccmeurope",
+    "source": "recruitee",
+    "slug": "ccmeurope",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Centric",
+    "source": "recruitee",
+    "slug": "centric",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Cerebras",
+    "source": "ashby",
+    "slug": "cerebras",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Change",
+    "source": "recruitee",
+    "slug": "change",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Chargebee",
+    "source": "page",
+    "slug": "https://www.chargebee.com/careers/",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Chargerhelp",
+    "source": "recruitee",
+    "slug": "chargerhelp",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Chgcareers",
+    "source": "recruitee",
+    "slug": "chgcareers",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Chime",
+    "source": "greenhouse",
+    "slug": "chime",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Chmedia",
+    "source": "recruitee",
+    "slug": "chmedia",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Chowco",
+    "source": "recruitee",
+    "slug": "chowco",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Chrhautesenne",
+    "source": "recruitee",
+    "slug": "chrhautesenne",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Circle",
+    "source": "ashby",
+    "slug": "circle",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "CircleCI",
+    "source": "greenhouse",
+    "slug": "circleci",
+    "sector": "Cloud & DevOps",
+    "guess": true
+  },
+  {
+    "name": "Cisco",
+    "source": "page",
+    "slug": "https://jobs.cisco.com/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Citadel",
+    "source": "page",
+    "slug": "https://www.citadel.com/careers/",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Citibank",
+    "source": "jsonld",
+    "slug": "https://jobs.citi.com/sitemap.xml",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Citizensadvicescotland",
+    "source": "recruitee",
+    "slug": "citizensadvicescotland",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Clari",
+    "source": "lever",
+    "slug": "clari",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Clbgroup",
+    "source": "recruitee",
+    "slug": "clbgroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Clevertap",
+    "source": "page",
+    "slug": "https://clevertap.com/company/careers/",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "ClickUp",
+    "source": "ashby",
+    "slug": "clickup",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Climatekic",
+    "source": "recruitee",
+    "slug": "climatekic",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Climeworks",
+    "source": "recruitee",
+    "slug": "climeworks",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Clockwise",
+    "source": "recruitee",
+    "slug": "clockwise",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Cloudcarrier",
+    "source": "recruitee",
+    "slug": "cloudcarrier",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Cloudflare",
+    "source": "greenhouse",
+    "slug": "cloudflare",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "CloudSEK",
+    "source": "greenhouse",
+    "slug": "cloudsek",
+    "sector": "Cybersecurity",
+    "guess": true
+  },
+  {
+    "name": "Clubtikitaka",
+    "source": "recruitee",
+    "slug": "clubtikitaka",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Cmmrclly",
+    "source": "recruitee",
+    "slug": "cmmrclly",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Cms",
+    "source": "recruitee",
+    "slug": "cms",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Coforge",
+    "source": "page",
+    "slug": "https://www.coforge.com/careers/",
+    "sector": "IT Services"
+  },
+  {
+    "name": "Cognite",
+    "source": "greenhouse",
+    "slug": "cognite",
+    "sector": "Manufacturing",
+    "guess": true
+  },
+  {
+    "name": "Cognizant",
+    "source": "page",
+    "slug": "https://careers.cognizant.com/",
+    "sector": "IT Services"
+  },
+  {
+    "name": "Cohere",
+    "source": "ashby",
+    "slug": "cohere",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Coinbase",
+    "source": "greenhouse",
+    "slug": "coinbase",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Color Health",
+    "source": "ashby",
+    "slug": "color-health",
+    "sector": "Healthcare Tech",
+    "guess": true
+  },
+  {
+    "name": "Commonland",
+    "source": "recruitee",
+    "slug": "commonland",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Commvault",
+    "source": "greenhouse",
+    "slug": "commvault",
+    "sector": "Cloud & DevOps",
+    "guess": true
+  },
+  {
+    "name": "Companiongroupltd",
+    "source": "recruitee",
+    "slug": "companiongroupltd",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Confluent",
+    "source": "ashby",
+    "slug": "confluent",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Conflux",
+    "source": "recruitee",
+    "slug": "conflux",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Congreshotelliege",
+    "source": "recruitee",
+    "slug": "congreshotelliege",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Consensys",
+    "source": "greenhouse",
+    "slug": "consensys",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Constructivedialogue",
+    "source": "recruitee",
+    "slug": "constructivedialogue",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Contactcare",
+    "source": "recruitee",
+    "slug": "contactcare",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Contentful",
+    "source": "greenhouse",
+    "slug": "contentful",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Contextand",
+    "source": "recruitee",
+    "slug": "contextand",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Contextfinlandoy",
+    "source": "recruitee",
+    "slug": "contextfinlandoy",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "CoStar",
+    "source": "greenhouse",
+    "slug": "costar",
+    "sector": "PropTech & Real Estate",
+    "guess": true
+  },
+  {
+    "name": "Coupang",
+    "source": "greenhouse",
+    "slug": "coupang",
+    "sector": "E-commerce & Retail",
+    "guess": true
+  },
+  {
+    "name": "Coursera",
+    "source": "greenhouse",
+    "slug": "coursera",
+    "sector": "Edtech",
+    "guess": true
+  },
+  {
+    "name": "CRED",
+    "source": "lever",
+    "slug": "cred",
+    "sector": "Product & Tech — India",
+    "guess": true
+  },
+  {
+    "name": "Culture Amp",
+    "source": "greenhouse",
+    "slug": "cultureamp",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Cursor",
+    "source": "ashby",
+    "slug": "cursor",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Cyware",
+    "source": "greenhouse",
+    "slug": "cyware",
+    "sector": "Cybersecurity",
+    "guess": true
+  },
+  {
+    "name": "Dapper Labs",
+    "source": "ashby",
+    "slug": "dapper",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Databricks",
+    "source": "greenhouse",
+    "slug": "databricks",
+    "sector": "Product & Tech — Global",
+    "guess": true
+  },
+  {
+    "name": "Datadog",
+    "source": "greenhouse",
+    "slug": "datadog",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Dataiku",
+    "source": "greenhouse",
+    "slug": "dataiku",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Dave",
+    "source": "ashby",
+    "slug": "dave",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "DE Shaw",
+    "source": "page",
+    "slug": "https://www.deshaw.com/careers/",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Deel",
+    "source": "ashby",
+    "slug": "deel",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Delhivery",
+    "source": "page",
+    "slug": "https://www.delhivery.com/careers/",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Deloitte",
+    "source": "page",
+    "slug": "https://jobs2.deloitte.com/in/en",
+    "sector": "Consulting & Big 4"
+  },
+  {
+    "name": "Deutsche Bank",
+    "source": "page",
+    "slug": "https://careers.db.com/",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Discord",
+    "source": "greenhouse",
+    "slug": "discord",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Disney",
+    "source": "greenhouse",
+    "slug": "disney",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Docker",
+    "source": "ashby",
+    "slug": "docker",
+    "sector": "Cloud & DevOps",
+    "guess": true
+  },
+  {
+    "name": "DocuSign",
+    "source": "lever",
+    "slug": "docusign",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Doximity",
+    "source": "greenhouse",
+    "slug": "doximity",
+    "sector": "Healthcare Tech",
+    "guess": true
+  },
+  {
+    "name": "Drata",
+    "source": "ashby",
+    "slug": "drata",
+    "sector": "Cybersecurity",
+    "guess": true
+  },
+  {
+    "name": "Dream11",
+    "source": "page",
+    "slug": "https://careers.dream11.com/",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Dropbox",
+    "source": "greenhouse",
+    "slug": "dropbox",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Druva",
+    "source": "greenhouse",
+    "slug": "druva",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Duolingo",
+    "source": "greenhouse",
+    "slug": "duolingo",
+    "sector": "Edtech",
+    "guess": true
+  },
+  {
+    "name": "eBay",
+    "source": "page",
+    "slug": "https://careers.ebayinc.com/",
+    "sector": "E-commerce & Retail"
+  },
+  {
+    "name": "Ecocert",
+    "source": "recruitee",
+    "slug": "ecocert",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Economicsecurityproject",
+    "source": "recruitee",
+    "slug": "economicsecurityproject",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Effectis1",
+    "source": "recruitee",
+    "slug": "effectis1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Effecty",
+    "source": "recruitee",
+    "slug": "effecty",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Eiseleflugdienstgmbh",
+    "source": "recruitee",
+    "slug": "eiseleflugdienstgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Elan",
+    "source": "recruitee",
+    "slug": "elan",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Elanza",
+    "source": "recruitee",
+    "slug": "elanza",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Elastic",
+    "source": "greenhouse",
+    "slug": "elastic",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Elation Health",
+    "source": "greenhouse",
+    "slug": "elationhealth",
+    "sector": "Healthcare Tech",
+    "guess": true
+  },
+  {
+    "name": "Elephantdigital",
+    "source": "recruitee",
+    "slug": "elephantdigital",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Elockers",
+    "source": "recruitee",
+    "slug": "elockers",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Ember",
+    "source": "recruitee",
+    "slug": "ember",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Emplyfy",
+    "source": "recruitee",
+    "slug": "emplyfy",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Endriswagnerundkollegengbr",
+    "source": "recruitee",
+    "slug": "endriswagnerundkollegengbr",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Eneve",
+    "source": "recruitee",
+    "slug": "eneve",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Enjoygaming",
+    "source": "recruitee",
+    "slug": "enjoygaming",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Ennatuurlijkbv",
+    "source": "recruitee",
+    "slug": "ennatuurlijkbv",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Enomyc",
+    "source": "recruitee",
+    "slug": "enomyc",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Enpicom",
+    "source": "recruitee",
+    "slug": "enpicom",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Enseradesign",
+    "source": "recruitee",
+    "slug": "enseradesign",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Enterprise",
+    "source": "recruitee",
+    "slug": "enterprise",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Envipco",
+    "source": "recruitee",
+    "slug": "envipco",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "EPAM Systems",
+    "source": "page",
+    "slug": "https://www.epam.com/careers/job-listings",
+    "sector": "IT Services"
+  },
+  {
+    "name": "Epic Games",
+    "source": "greenhouse",
+    "slug": "epicgames",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Epicfusion",
+    "source": "recruitee",
+    "slug": "epicfusion",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Epilot",
+    "source": "recruitee",
+    "slug": "epilot",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Equito",
+    "source": "recruitee",
+    "slug": "equito",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Equivity",
+    "source": "recruitee",
+    "slug": "equivity",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Ericsson",
+    "source": "page",
+    "slug": "https://jobs.ericsson.com/",
+    "sector": "Telecom"
+  },
+  {
+    "name": "Eskandary",
+    "source": "recruitee",
+    "slug": "eskandary",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Eternalsungroupbv",
+    "source": "recruitee",
+    "slug": "eternalsungroupbv",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Ethereum Foundation",
+    "source": "ashby",
+    "slug": "ethereum-foundation",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Eticor",
+    "source": "recruitee",
+    "slug": "eticor",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Evreuxportesdenormandie",
+    "source": "recruitee",
+    "slug": "evreuxportesdenormandie",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Eworgmbh",
+    "source": "recruitee",
+    "slug": "eworgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Exeon",
+    "source": "recruitee",
+    "slug": "exeon",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Expensify",
+    "source": "ashby",
+    "slug": "expensify",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Fachstellemobbingundbelastigung",
+    "source": "recruitee",
+    "slug": "fachstellemobbingundbelastigung",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Faire",
+    "source": "greenhouse",
+    "slug": "faire",
+    "sector": "E-commerce & Retail",
+    "guess": true
+  },
+  {
+    "name": "Famly",
+    "source": "recruitee",
+    "slug": "famly",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Fashioncloudgmbh",
+    "source": "recruitee",
+    "slug": "fashioncloudgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Fastems",
+    "source": "recruitee",
+    "slug": "fastems",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Fastly",
+    "source": "greenhouse",
+    "slug": "fastly",
+    "sector": "Cloud & DevOps",
+    "guess": true
+  },
+  {
+    "name": "Fastned",
+    "source": "recruitee",
+    "slug": "fastned",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Festgmbh",
+    "source": "recruitee",
+    "slug": "festgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Figma",
+    "source": "greenhouse",
+    "slug": "figma",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Fik",
+    "source": "recruitee",
+    "slug": "fik",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Fincoenergies",
+    "source": "recruitee",
+    "slug": "fincoenergies",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Fireblocks",
+    "source": "greenhouse",
+    "slug": "fireblocks",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Firmitas",
+    "source": "recruitee",
+    "slug": "firmitas",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Fivetran",
+    "source": "greenhouse",
+    "slug": "fivetran",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Fixico",
+    "source": "recruitee",
+    "slug": "fixico",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Flatiron Health",
+    "source": "greenhouse",
+    "slug": "flatironhealth",
+    "sector": "Healthcare Tech",
+    "guess": true
+  },
+  {
+    "name": "Flexport",
+    "source": "greenhouse",
+    "slug": "flexport",
+    "sector": "Logistics & Supply Chain",
+    "guess": true
+  },
+  {
+    "name": "Flipkart",
+    "source": "page",
+    "slug": "https://www.flipkartcareers.com/",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Florence",
+    "source": "recruitee",
+    "slug": "florence",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Fluxpartners",
+    "source": "recruitee",
+    "slug": "fluxpartners",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Flyingbisons",
+    "source": "recruitee",
+    "slug": "flyingbisons",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Forcyd",
+    "source": "recruitee",
+    "slug": "forcyd",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Fourkites",
+    "source": "greenhouse",
+    "slug": "fourkites",
+    "sector": "Logistics & Supply Chain",
+    "guess": true
+  },
+  {
+    "name": "Freshworks",
+    "source": "lever",
+    "slug": "freshworks",
+    "sector": "Product & Tech — India",
+    "guess": true
+  },
+  {
+    "name": "FullStory",
+    "source": "ashby",
+    "slug": "fullstory",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Gemini",
+    "source": "greenhouse",
+    "slug": "gemini",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Genius",
+    "source": "greenhouse",
+    "slug": "genius",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "GitLab",
+    "source": "greenhouse",
+    "slug": "gitlab",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Glance",
+    "source": "greenhouse",
+    "slug": "glance",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Goldman Sachs",
+    "source": "page",
+    "slug": "https://www.goldmansachs.com/careers/",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Golmedgmbh",
+    "source": "recruitee",
+    "slug": "golmedgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Google",
+    "source": "page",
+    "slug": "https://careers.google.com/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Gpvcablesslovakia",
+    "source": "recruitee",
+    "slug": "gpvcablesslovakia",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Gpvchina",
+    "source": "recruitee",
+    "slug": "gpvchina",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Gpvmexico",
+    "source": "recruitee",
+    "slug": "gpvmexico",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Gpvswitzerland",
+    "source": "recruitee",
+    "slug": "gpvswitzerland",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Grafischlyceumutrecht",
+    "source": "recruitee",
+    "slug": "grafischlyceumutrecht",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Greatminds",
+    "source": "recruitee",
+    "slug": "greatminds",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Greenflux",
+    "source": "recruitee",
+    "slug": "greenflux",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Greenhouse",
+    "source": "greenhouse",
+    "slug": "greenhouse",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Greenpeacebelgium",
+    "source": "recruitee",
+    "slug": "greenpeacebelgium",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Greyparrotai",
+    "source": "recruitee",
+    "slug": "greyparrotai",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Gri",
+    "source": "recruitee",
+    "slug": "gri",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Grid",
+    "source": "recruitee",
+    "slug": "grid",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Gridscale",
+    "source": "recruitee",
+    "slug": "gridscale",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Groupemarval",
+    "source": "recruitee",
+    "slug": "groupemarval",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Groww",
+    "source": "greenhouse",
+    "slug": "groww",
+    "sector": "Product & Tech — India",
+    "guess": true
+  },
+  {
+    "name": "Gsbsolutions1",
+    "source": "recruitee",
+    "slug": "gsbsolutions1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Gtowizard",
+    "source": "recruitee",
+    "slug": "gtowizard",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Guild",
+    "source": "greenhouse",
+    "slug": "guild",
+    "sector": "Edtech",
+    "guess": true
+  },
+  {
+    "name": "Gustileder",
+    "source": "recruitee",
+    "slug": "gustileder",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Gusto",
+    "source": "greenhouse",
+    "slug": "gusto",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Gutzeitmetallbaugmbh",
+    "source": "recruitee",
+    "slug": "gutzeitmetallbaugmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Habilians",
+    "source": "recruitee",
+    "slug": "habilians",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "HackerRank",
+    "source": "greenhouse",
+    "slug": "hackerrank",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Halbersbacherhospitalitygroup",
+    "source": "recruitee",
+    "slug": "halbersbacherhospitalitygroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hamelin",
+    "source": "recruitee",
+    "slug": "hamelin",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hardrockdigital",
+    "source": "recruitee",
+    "slug": "hardrockdigital",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Harvey",
+    "source": "ashby",
+    "slug": "harvey",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Hascoinvest",
+    "source": "recruitee",
+    "slug": "hascoinvest",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hausfursicherheit",
+    "source": "recruitee",
+    "slug": "hausfursicherheit",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hauteaviation",
+    "source": "recruitee",
+    "slug": "hauteaviation",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "HCL Technologies",
+    "source": "page",
+    "slug": "https://www.hcltech.com/careers",
+    "sector": "IT Services"
+  },
+  {
+    "name": "Healthiergeneration",
+    "source": "recruitee",
+    "slug": "healthiergeneration",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Heattransformers",
+    "source": "recruitee",
+    "slug": "heattransformers",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Heembouw",
+    "source": "recruitee",
+    "slug": "heembouw",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Heidelbergmaterialsbenelux",
+    "source": "recruitee",
+    "slug": "heidelbergmaterialsbenelux",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Helloprint",
+    "source": "recruitee",
+    "slug": "helloprint",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hetnotarieelsharedservices",
+    "source": "recruitee",
+    "slug": "hetnotarieelsharedservices",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hex",
+    "source": "ashby",
+    "slug": "hex",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Hexaware",
+    "source": "page",
+    "slug": "https://hexaware.com/careers/",
+    "sector": "IT Services"
+  },
+  {
+    "name": "Hginternational",
+    "source": "recruitee",
+    "slug": "hginternational",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "HighRadius",
+    "source": "greenhouse",
+    "slug": "highradius",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Hike2",
+    "source": "recruitee",
+    "slug": "hike2",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hims & Hers",
+    "source": "ashby",
+    "slug": "hims-and-hers",
+    "sector": "Healthcare Tech",
+    "guess": true
+  },
+  {
+    "name": "Hiring",
+    "source": "recruitee",
+    "slug": "hiring",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hived",
+    "source": "recruitee",
+    "slug": "hived",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hofmannmetallgmbh",
+    "source": "recruitee",
+    "slug": "hofmannmetallgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Holepunch",
+    "source": "recruitee",
+    "slug": "holepunch",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Holzlandbecker",
+    "source": "recruitee",
+    "slug": "holzlandbecker",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hometouch",
+    "source": "recruitee",
+    "slug": "hometouch",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hospitainer",
+    "source": "recruitee",
+    "slug": "hospitainer",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hotelarnhem",
+    "source": "recruitee",
+    "slug": "hotelarnhem",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hoteldewittebergen",
+    "source": "recruitee",
+    "slug": "hoteldewittebergen",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hotelhildesheim",
+    "source": "recruitee",
+    "slug": "hotelhildesheim",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hotelmunteamstadtwald",
+    "source": "recruitee",
+    "slug": "hotelmunteamstadtwald",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hotelpariscdgairport",
+    "source": "recruitee",
+    "slug": "hotelpariscdgairport",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hotelverviers",
+    "source": "recruitee",
+    "slug": "hotelverviers",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hotelzaltbommel",
+    "source": "recruitee",
+    "slug": "hotelzaltbommel",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hotstar",
+    "source": "lever",
+    "slug": "hotstar",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Houzz",
+    "source": "lever",
+    "slug": "houzz",
+    "sector": "PropTech & Real Estate",
+    "guess": true
+  },
+  {
+    "name": "HSBC",
+    "source": "page",
+    "slug": "https://www.hsbc.com/careers/",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Hsplus",
+    "source": "recruitee",
+    "slug": "hsplus",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Huaweicanada",
+    "source": "recruitee",
+    "slug": "huaweicanada",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hubvisory",
+    "source": "recruitee",
+    "slug": "hubvisory",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hudsonmanpower",
+    "source": "recruitee",
+    "slug": "hudsonmanpower",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Huuuge",
+    "source": "recruitee",
+    "slug": "huuuge",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hygraph",
+    "source": "recruitee",
+    "slug": "hygraph",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Hypergenllc",
+    "source": "recruitee",
+    "slug": "hypergenllc",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Ib1",
+    "source": "recruitee",
+    "slug": "ib1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Ibexa",
+    "source": "recruitee",
+    "slug": "ibexa",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "IBM",
+    "source": "page",
+    "slug": "https://www.ibm.com/in-en/employment/",
+    "sector": "IT Services"
+  },
+  {
+    "name": "Icuitservices",
+    "source": "recruitee",
+    "slug": "icuitservices",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Immutable",
+    "source": "lever",
+    "slug": "immutable",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Incentivio",
+    "source": "recruitee",
+    "slug": "incentivio",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Indeed",
+    "source": "greenhouse",
+    "slug": "indeed",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Infinitaslearning1",
+    "source": "recruitee",
+    "slug": "infinitaslearning1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Infomedics",
+    "source": "recruitee",
+    "slug": "infomedics",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Inforsht",
+    "source": "recruitee",
+    "slug": "inforsht",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Infosys",
+    "source": "page",
+    "slug": "https://career.infosys.com/",
+    "sector": "IT Services"
+  },
+  {
+    "name": "InMobi",
+    "source": "greenhouse",
+    "slug": "inmobi",
+    "sector": "Product & Tech — India",
+    "guess": true
+  },
+  {
+    "name": "Innovaccer",
+    "source": "page",
+    "slug": "https://innovaccer.com/company/careers/",
+    "sector": "Healthcare Tech"
+  },
+  {
+    "name": "Innovadis",
+    "source": "recruitee",
+    "slug": "innovadis",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Innovativebeautygroup",
+    "source": "recruitee",
+    "slug": "innovativebeautygroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Inpernellgmbh",
+    "source": "recruitee",
+    "slug": "inpernellgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Inretail",
+    "source": "recruitee",
+    "slug": "inretail",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Insanitygroup",
+    "source": "recruitee",
+    "slug": "insanitygroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Instacart",
+    "source": "greenhouse",
+    "slug": "instacart",
+    "sector": "E-commerce & Retail",
+    "guess": true
+  },
+  {
+    "name": "Institutminestelecom",
+    "source": "recruitee",
+    "slug": "institutminestelecom",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Instructure",
+    "source": "ashby",
+    "slug": "instructure",
+    "sector": "Edtech",
+    "guess": true
+  },
+  {
+    "name": "Intel",
+    "source": "page",
+    "slug": "https://jobs.intel.com/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Intent",
+    "source": "recruitee",
+    "slug": "intent",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Intercom",
+    "source": "greenhouse",
+    "slug": "intercom",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Intergarde",
+    "source": "recruitee",
+    "slug": "intergarde",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Intermategroupgmbh",
+    "source": "recruitee",
+    "slug": "intermategroupgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Interprenet",
+    "source": "recruitee",
+    "slug": "interprenet",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Invisix",
+    "source": "recruitee",
+    "slug": "invisix",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Irimed",
+    "source": "recruitee",
+    "slug": "irimed",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Irisvanherpen",
+    "source": "recruitee",
+    "slug": "irisvanherpen",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Isc",
+    "source": "recruitee",
+    "slug": "isc",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Isdglobal",
+    "source": "recruitee",
+    "slug": "isdglobal",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Italienacc",
+    "source": "recruitee",
+    "slug": "italienacc",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Iterable",
+    "source": "greenhouse",
+    "slug": "iterable",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Itsallaboutchristmas",
+    "source": "recruitee",
+    "slug": "itsallaboutchristmas",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Jane Street",
+    "source": "greenhouse",
+    "slug": "janestreet",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Janegoodall",
+    "source": "recruitee",
+    "slug": "janegoodall",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Jedowski",
+    "source": "recruitee",
+    "slug": "jedowski",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Jeranexbp",
+    "source": "recruitee",
+    "slug": "jeranexbp",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "JFrog",
+    "source": "greenhouse",
+    "slug": "jfrog",
+    "sector": "Cloud & DevOps",
+    "guess": true
+  },
+  {
+    "name": "Jio",
+    "source": "page",
+    "slug": "https://careers.jio.com/",
+    "sector": "Telecom"
+  },
+  {
+    "name": "Jobsdeerns",
+    "source": "recruitee",
+    "slug": "jobsdeerns",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Jobsmistertemp",
+    "source": "recruitee",
+    "slug": "jobsmistertemp",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Jobspeakcoaching",
+    "source": "recruitee",
+    "slug": "jobspeakcoaching",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Jobvite",
+    "source": "lever",
+    "slug": "jobvite",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Johogroup",
+    "source": "recruitee",
+    "slug": "johogroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Joinadministraties",
+    "source": "recruitee",
+    "slug": "joinadministraties",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Jost",
+    "source": "recruitee",
+    "slug": "jost",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "JP Morgan",
+    "source": "page",
+    "slug": "https://careers.jpmorgan.com/",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Juliusbergerinternationalgmbh",
+    "source": "recruitee",
+    "slug": "juliusbergerinternationalgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Juspay",
+    "source": "page",
+    "slug": "https://juspay.in/careers",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Justworks",
+    "source": "greenhouse",
+    "slug": "justworks",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Juustoporttioy",
+    "source": "recruitee",
+    "slug": "juustoporttioy",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kairosfellowship",
+    "source": "recruitee",
+    "slug": "kairosfellowship",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kaizo",
+    "source": "recruitee",
+    "slug": "kaizo",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kampfsportgmbh",
+    "source": "recruitee",
+    "slug": "kampfsportgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kandinsky",
+    "source": "recruitee",
+    "slug": "kandinsky",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kantega",
+    "source": "recruitee",
+    "slug": "kantega",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kanzleineitzel",
+    "source": "recruitee",
+    "slug": "kanzleineitzel",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Karriereboeckelsbestede",
+    "source": "recruitee",
+    "slug": "karriereboeckelsbestede",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Karrierehall",
+    "source": "recruitee",
+    "slug": "karrierehall",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Karriererheinzeitung",
+    "source": "recruitee",
+    "slug": "karriererheinzeitung",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Karriereteachingsocials",
+    "source": "recruitee",
+    "slug": "karriereteachingsocials",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kayrros1",
+    "source": "recruitee",
+    "slug": "kayrros1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kb",
+    "source": "recruitee",
+    "slug": "kb",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kdci1",
+    "source": "recruitee",
+    "slug": "kdci1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Keunecareers",
+    "source": "recruitee",
+    "slug": "keunecareers",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Khan Academy",
+    "source": "greenhouse",
+    "slug": "khanacademy",
+    "sector": "Edtech",
+    "guess": true
+  },
+  {
+    "name": "Khonraad",
+    "source": "recruitee",
+    "slug": "khonraad",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kiesertrainingag",
+    "source": "recruitee",
+    "slug": "kiesertrainingag",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kigroup",
+    "source": "recruitee",
+    "slug": "kigroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Klaviyo",
+    "source": "greenhouse",
+    "slug": "klaviyo",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Klymagmbh1",
+    "source": "recruitee",
+    "slug": "klymagmbh1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Knock",
+    "source": "greenhouse",
+    "slug": "knock",
+    "sector": "PropTech & Real Estate",
+    "guess": true
+  },
+  {
+    "name": "Kodiak",
+    "source": "greenhouse",
+    "slug": "kodiak",
+    "sector": "EV & AutoTech",
+    "guess": true
+  },
+  {
+    "name": "Kodify",
+    "source": "recruitee",
+    "slug": "kodify",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kodland",
+    "source": "recruitee",
+    "slug": "kodland",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kong",
+    "source": "ashby",
+    "slug": "kong",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Koninklijkesportfondsennederlandbv",
+    "source": "recruitee",
+    "slug": "koninklijkesportfondsennederlandbv",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kpsnacks",
+    "source": "recruitee",
+    "slug": "kpsnacks",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kraken",
+    "source": "lever",
+    "slug": "kraken",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Ksverlichting",
+    "source": "recruitee",
+    "slug": "ksverlichting",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Kultolymphades",
+    "source": "recruitee",
+    "slug": "kultolymphades",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Latch",
+    "source": "lever",
+    "slug": "latch",
+    "sector": "PropTech & Real Estate",
+    "guess": true
+  },
+  {
+    "name": "Lattice",
+    "source": "greenhouse",
+    "slug": "lattice",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "LaunchDarkly",
+    "source": "greenhouse",
+    "slug": "launchdarkly",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Ledger",
+    "source": "ashby",
+    "slug": "ledger",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Lefebvresdu",
+    "source": "recruitee",
+    "slug": "lefebvresdu",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Legalfly",
+    "source": "recruitee",
+    "slug": "legalfly",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Lekremlinbicetre",
+    "source": "recruitee",
+    "slug": "lekremlinbicetre",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Lessonup",
+    "source": "recruitee",
+    "slug": "lessonup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Lever",
+    "source": "lever",
+    "slug": "lever",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Leydenjar",
+    "source": "recruitee",
+    "slug": "leydenjar",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Leydenlabs",
+    "source": "recruitee",
+    "slug": "leydenlabs",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Lfeddersenbaugesellschaftmbh",
+    "source": "recruitee",
+    "slug": "lfeddersenbaugesellschaftmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Lg2",
+    "source": "recruitee",
+    "slug": "lg2",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Liberein1",
+    "source": "recruitee",
+    "slug": "liberein1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Limagrainingredients",
+    "source": "recruitee",
+    "slug": "limagrainingredients",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Linear",
+    "source": "ashby",
+    "slug": "linear",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "LinkedIn",
+    "source": "lever",
+    "slug": "linkedin",
+    "sector": "Product & Tech — Global",
+    "guess": true
+  },
+  {
+    "name": "Linkurious",
+    "source": "recruitee",
+    "slug": "linkurious",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Lippepersonal",
+    "source": "recruitee",
+    "slug": "lippepersonal",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Lister",
+    "source": "recruitee",
+    "slug": "lister",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Litit",
+    "source": "recruitee",
+    "slug": "litit",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Lleverage",
+    "source": "recruitee",
+    "slug": "lleverage",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Loadshare",
+    "source": "ashby",
+    "slug": "loadshare",
+    "sector": "Logistics & Supply Chain",
+    "guess": true
+  },
+  {
+    "name": "Lomography",
+    "source": "recruitee",
+    "slug": "lomography",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Londiscareers",
+    "source": "recruitee",
+    "slug": "londiscareers",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Lookup",
+    "source": "recruitee",
+    "slug": "lookup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Loom",
+    "source": "ashby",
+    "slug": "loom",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Loyaltykey",
+    "source": "recruitee",
+    "slug": "loyaltykey",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "LTIMindtree",
+    "source": "page",
+    "slug": "https://www.ltimindtree.com/careers/",
+    "sector": "IT Services"
+  },
+  {
+    "name": "Lucid Motors",
+    "source": "greenhouse",
+    "slug": "lucidmotors",
+    "sector": "EV & AutoTech",
+    "guess": true
+  },
+  {
+    "name": "Lumc11",
+    "source": "recruitee",
+    "slug": "lumc11",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Lumen",
+    "source": "ashby",
+    "slug": "lumen",
+    "sector": "Telecom",
+    "guess": true
+  },
+  {
+    "name": "Lyra Health",
+    "source": "lever",
+    "slug": "lyrahealth",
+    "sector": "Healthcare Tech",
+    "guess": true
+  },
+  {
+    "name": "Macecareers",
+    "source": "recruitee",
+    "slug": "macecareers",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Machinelearningreply",
+    "source": "recruitee",
+    "slug": "machinelearningreply",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Mailerlite",
+    "source": "recruitee",
+    "slug": "mailerlite",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "MakeMyTrip",
+    "source": "page",
+    "slug": "https://careers.makemytrip.com/",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Makersitegmbh",
+    "source": "recruitee",
+    "slug": "makersitegmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Manhattanspecialtycare",
+    "source": "recruitee",
+    "slug": "manhattanspecialtycare",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Massimodutti",
+    "source": "recruitee",
+    "slug": "massimodutti",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Massimogelato",
+    "source": "recruitee",
+    "slug": "massimogelato",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Mastercard",
+    "source": "jsonld",
+    "slug": "https://careers.mastercard.com/sitemap.xml",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "MasterClass",
+    "source": "greenhouse",
+    "slug": "masterclass",
+    "sector": "Edtech",
+    "guess": true
+  },
+  {
+    "name": "Matera",
+    "source": "recruitee",
+    "slug": "matera",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Matresearch",
+    "source": "recruitee",
+    "slug": "matresearch",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Mayflower",
+    "source": "recruitee",
+    "slug": "mayflower",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Mbio",
+    "source": "recruitee",
+    "slug": "mbio",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Mcb",
+    "source": "recruitee",
+    "slug": "mcb",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Mcdglobalhealth",
+    "source": "recruitee",
+    "slug": "mcdglobalhealth",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Mdlbeast",
+    "source": "recruitee",
+    "slug": "mdlbeast",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Medecinssansfrontieressuisse",
+    "source": "recruitee",
+    "slug": "medecinssansfrontieressuisse",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Medecinssansfrontiereswaca",
+    "source": "recruitee",
+    "slug": "medecinssansfrontiereswaca",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Medica",
+    "source": "recruitee",
+    "slug": "medica",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Medium",
+    "source": "greenhouse",
+    "slug": "medium",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Medmehealth",
+    "source": "recruitee",
+    "slug": "medmehealth",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Medmij",
+    "source": "recruitee",
+    "slug": "medmij",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Meesho",
+    "source": "lever",
+    "slug": "meesho",
+    "sector": "Product & Tech — India",
+    "guess": true
+  },
+  {
+    "name": "Melitaltd",
+    "source": "recruitee",
+    "slug": "melitaltd",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Meltandmarble",
+    "source": "recruitee",
+    "slug": "meltandmarble",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Mercury",
+    "source": "greenhouse",
+    "slug": "mercury",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Merkur",
+    "source": "recruitee",
+    "slug": "merkur",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Meta",
+    "source": "page",
+    "slug": "https://www.metacareers.com/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Metrocaring",
+    "source": "recruitee",
+    "slug": "metrocaring",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Mhiecpd",
+    "source": "recruitee",
+    "slug": "mhiecpd",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Miaplaza",
+    "source": "recruitee",
+    "slug": "miaplaza",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Micron Technology",
+    "source": "page",
+    "slug": "https://micron.wd1.myworkdayjobs.com/External",
+    "sector": "Semiconductor & Hardware"
+  },
+  {
+    "name": "Microsoft",
+    "source": "page",
+    "slug": "https://careers.microsoft.com/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Mindtickle",
+    "source": "lever",
+    "slug": "mindtickle",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Miro",
+    "source": "ashby",
+    "slug": "miro",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Missiongasteprimus",
+    "source": "recruitee",
+    "slug": "missiongasteprimus",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Mixpanel",
+    "source": "greenhouse",
+    "slug": "mixpanel",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Mkh",
+    "source": "recruitee",
+    "slug": "mkh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Molymet",
+    "source": "recruitee",
+    "slug": "molymet",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Momomedical",
+    "source": "recruitee",
+    "slug": "momomedical",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Mondaymerch",
+    "source": "recruitee",
+    "slug": "mondaymerch",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "MongoDB",
+    "source": "greenhouse",
+    "slug": "mongodb",
+    "sector": "Product & Tech — Global",
+    "guess": true
+  },
+  {
+    "name": "Monzo",
+    "source": "greenhouse",
+    "slug": "monzo",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "MoonPay",
+    "source": "lever",
+    "slug": "moonpay",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Morgan Stanley",
+    "source": "page",
+    "slug": "https://www.morganstanley.com/careers/",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Mosadex",
+    "source": "recruitee",
+    "slug": "mosadex",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Motena",
+    "source": "recruitee",
+    "slug": "motena",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Moveup",
+    "source": "recruitee",
+    "slug": "moveup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Moweryschoenfeldllc",
+    "source": "recruitee",
+    "slug": "moweryschoenfeldllc",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Mphasis",
+    "source": "page",
+    "slug": "https://careers.mphasis.com/",
+    "sector": "IT Services"
+  },
+  {
+    "name": "Mprintgroupeu",
+    "source": "recruitee",
+    "slug": "mprintgroupeu",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Msf",
+    "source": "recruitee",
+    "slug": "msf",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Mstudio",
+    "source": "recruitee",
+    "slug": "mstudio",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Mumc",
+    "source": "recruitee",
+    "slug": "mumc",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Myflexbox",
+    "source": "recruitee",
+    "slug": "myflexbox",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Myjewellery",
+    "source": "recruitee",
+    "slug": "myjewellery",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Myntra",
+    "source": "page",
+    "slug": "https://careers.myntra.com/",
+    "sector": "E-commerce & Retail"
+  },
+  {
+    "name": "N26",
+    "source": "greenhouse",
+    "slug": "n26",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "N2Jsoft",
+    "source": "recruitee",
+    "slug": "n2jsoft",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Namecheap",
+    "source": "recruitee",
+    "slug": "namecheap",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Nationalsustainableagriculturecoalition",
+    "source": "recruitee",
+    "slug": "nationalsustainableagriculturecoalition",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Naukri",
+    "source": "greenhouse",
+    "slug": "naukri",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Navi",
+    "source": "ashby",
+    "slug": "navi",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Neon",
+    "source": "lever",
+    "slug": "neon",
+    "sector": "Cloud & DevOps",
+    "guess": true
+  },
+  {
+    "name": "Netflix",
+    "source": "page",
+    "slug": "https://jobs.netflix.com/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Netlify",
+    "source": "greenhouse",
+    "slug": "netlify",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Netskope",
+    "source": "greenhouse",
+    "slug": "netskope",
+    "sector": "Cybersecurity",
+    "guess": true
+  },
+  {
+    "name": "Netural",
+    "source": "recruitee",
+    "slug": "netural",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "New Relic",
+    "source": "greenhouse",
+    "slug": "newrelic",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Newelec",
+    "source": "recruitee",
+    "slug": "newelec",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Nexioprojects1",
+    "source": "recruitee",
+    "slug": "nexioprojects1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Niantic",
+    "source": "ashby",
+    "slug": "niantic",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Nictiz",
+    "source": "recruitee",
+    "slug": "nictiz",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Nikin",
+    "source": "recruitee",
+    "slug": "nikin",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Nium",
+    "source": "lever",
+    "slug": "nium",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Nlc",
+    "source": "recruitee",
+    "slug": "nlc",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Nmbrs",
+    "source": "recruitee",
+    "slug": "nmbrs",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Nokia",
+    "source": "page",
+    "slug": "https://www.nokia.com/en_int/careers/",
+    "sector": "Telecom"
+  },
+  {
+    "name": "Nordbalticsolutions",
+    "source": "recruitee",
+    "slug": "nordbalticsolutions",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Notion",
+    "source": "ashby",
+    "slug": "notion",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Novacard",
+    "source": "recruitee",
+    "slug": "novacard",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Novakidteachers",
+    "source": "recruitee",
+    "slug": "novakidteachers",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Nts",
+    "source": "recruitee",
+    "slug": "nts",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Nuro",
+    "source": "greenhouse",
+    "slug": "nuro",
+    "sector": "EV & AutoTech",
+    "guess": true
+  },
+  {
+    "name": "NVIDIA",
+    "source": "page",
+    "slug": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Nwbbank",
+    "source": "recruitee",
+    "slug": "nwbbank",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Nwsgmbh",
+    "source": "recruitee",
+    "slug": "nwsgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Nykaa",
+    "source": "page",
+    "slug": "https://careers.nykaa.com/",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Nyrahealth",
+    "source": "recruitee",
+    "slug": "nyrahealth",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Nysingh",
+    "source": "recruitee",
+    "slug": "nysingh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Observe.AI",
+    "source": "greenhouse",
+    "slug": "observeai",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Oceansofenergy",
+    "source": "recruitee",
+    "slug": "oceansofenergy",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Ogcglobal",
+    "source": "recruitee",
+    "slug": "ogcglobal",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Okta",
+    "source": "greenhouse",
+    "slug": "okta",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "OKX",
+    "source": "greenhouse",
+    "slug": "okx",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Ola",
+    "source": "page",
+    "slug": "https://careers.olacabs.com/",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Omroepgelderland",
+    "source": "recruitee",
+    "slug": "omroepgelderland",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Omybag",
+    "source": "recruitee",
+    "slug": "omybag",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "On2It",
+    "source": "recruitee",
+    "slug": "on2it",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Onemobility",
+    "source": "recruitee",
+    "slug": "onemobility",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Onevisionresources",
+    "source": "recruitee",
+    "slug": "onevisionresources",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Onlinedialogue",
+    "source": "recruitee",
+    "slug": "onlinedialogue",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Onstweedethuis",
+    "source": "recruitee",
+    "slug": "onstweedethuis",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "OpenAI",
+    "source": "ashby",
+    "slug": "openai",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "OpenSea",
+    "source": "ashby",
+    "slug": "opensea",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Opergraz",
+    "source": "recruitee",
+    "slug": "opergraz",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Opplebv",
+    "source": "recruitee",
+    "slug": "opplebv",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Optics11",
+    "source": "recruitee",
+    "slug": "optics11",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Optiver",
+    "source": "greenhouse",
+    "slug": "optiver",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Oracle",
+    "source": "page",
+    "slug": "https://careers.oracle.com/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Orthopassiongmbh",
+    "source": "recruitee",
+    "slug": "orthopassiongmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Otsukapharmagmbh",
+    "source": "recruitee",
+    "slug": "otsukapharmagmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Ottawasafetycouncil",
+    "source": "recruitee",
+    "slug": "ottawasafetycouncil",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Outreach",
+    "source": "lever",
+    "slug": "outreach",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Outschool",
+    "source": "ashby",
+    "slug": "outschool",
+    "sector": "Edtech",
+    "guess": true
+  },
+  {
+    "name": "Outspotjobs",
+    "source": "recruitee",
+    "slug": "outspotjobs",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Oyster",
+    "source": "ashby",
+    "slug": "oyster",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Pacificoenergy",
+    "source": "recruitee",
+    "slug": "pacificoenergy",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "PagerDuty",
+    "source": "greenhouse",
+    "slug": "pagerduty",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Palantir",
+    "source": "lever",
+    "slug": "palantir",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Paradigm",
+    "source": "ashby",
+    "slug": "paradigm",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Paradox",
+    "source": "ashby",
+    "slug": "paradox",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Paragongermany",
+    "source": "recruitee",
+    "slug": "paragongermany",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Parallel",
+    "source": "recruitee",
+    "slug": "parallel",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Partejobs",
+    "source": "recruitee",
+    "slug": "partejobs",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Partijvoordedieren1",
+    "source": "recruitee",
+    "slug": "partijvoordedieren1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Passionfroot",
+    "source": "recruitee",
+    "slug": "passionfroot",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Patreon",
+    "source": "ashby",
+    "slug": "patreon",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Payoneer",
+    "source": "greenhouse",
+    "slug": "payoneer",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "PayPal",
+    "source": "page",
+    "slug": "https://careers.pypl.com/",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Paytm",
+    "source": "lever",
+    "slug": "paytm",
+    "sector": "Product & Tech — India",
+    "guess": true
+  },
+  {
+    "name": "Pdkarriere",
+    "source": "recruitee",
+    "slug": "pdkarriere",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Pelsrijcken",
+    "source": "recruitee",
+    "slug": "pelsrijcken",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Pendo",
+    "source": "greenhouse",
+    "slug": "pendo",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Peoplefinders",
+    "source": "recruitee",
+    "slug": "peoplefinders",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Perplexity",
+    "source": "ashby",
+    "slug": "perplexity",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Persistent Systems",
+    "source": "page",
+    "slug": "https://www.persistent.com/careers/",
+    "sector": "IT Services"
+  },
+  {
+    "name": "Petalmd",
+    "source": "recruitee",
+    "slug": "petalmd",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Petcitygroup",
+    "source": "recruitee",
+    "slug": "petcitygroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Phantom",
+    "source": "ashby",
+    "slug": "phantom",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "PharmEasy",
+    "source": "page",
+    "slug": "https://pharmeasy.in/careers",
+    "sector": "Healthcare Tech"
+  },
+  {
+    "name": "PhonePe",
+    "source": "page",
+    "slug": "https://careers.phonepe.com/",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Picard",
+    "source": "recruitee",
+    "slug": "picard",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Pine Labs",
+    "source": "greenhouse",
+    "slug": "pine",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Pinecone",
+    "source": "ashby",
+    "slug": "pinecone",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Pinterest",
+    "source": "greenhouse",
+    "slug": "pinterest",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Pivotandedge",
+    "source": "recruitee",
+    "slug": "pivotandedge",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Pladisfrance",
+    "source": "recruitee",
+    "slug": "pladisfrance",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Plaid",
+    "source": "ashby",
+    "slug": "plaid",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Planethomegroupgmbh",
+    "source": "recruitee",
+    "slug": "planethomegroupgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "PlanetScale",
+    "source": "greenhouse",
+    "slug": "planetscale",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Plenetude",
+    "source": "recruitee",
+    "slug": "plenetude",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Pocket FM",
+    "source": "lever",
+    "slug": "pocketfm",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Porter",
+    "source": "greenhouse",
+    "slug": "porter",
+    "sector": "Logistics & Supply Chain",
+    "guess": true
+  },
+  {
+    "name": "Poshmark",
+    "source": "greenhouse",
+    "slug": "poshmark",
+    "sector": "E-commerce & Retail",
+    "guess": true
+  },
+  {
+    "name": "PostHog",
+    "source": "ashby",
+    "slug": "posthog",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Postman",
+    "source": "page",
+    "slug": "https://www.postman.com/company/careers/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Practo",
+    "source": "page",
+    "slug": "https://practo.com/company/careers",
+    "sector": "Healthcare Tech"
+  },
+  {
+    "name": "Pragmaticcoders",
+    "source": "recruitee",
+    "slug": "pragmaticcoders",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Precoroinc",
+    "source": "recruitee",
+    "slug": "precoroinc",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Prenosis",
+    "source": "recruitee",
+    "slug": "prenosis",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Prijsvrijvakanties",
+    "source": "recruitee",
+    "slug": "prijsvrijvakanties",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Primomarine",
+    "source": "recruitee",
+    "slug": "primomarine",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Prismic",
+    "source": "recruitee",
+    "slug": "prismic",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "project44",
+    "source": "greenhouse",
+    "slug": "project44",
+    "sector": "Logistics & Supply Chain",
+    "guess": true
+  },
+  {
+    "name": "Protectdemocracy",
+    "source": "recruitee",
+    "slug": "protectdemocracy",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Pure Storage",
+    "source": "greenhouse",
+    "slug": "purestorage",
+    "sector": "Cloud & DevOps",
+    "guess": true
+  },
+  {
+    "name": "Puregymswiss",
+    "source": "recruitee",
+    "slug": "puregymswiss",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Pwrpackinternational",
+    "source": "recruitee",
+    "slug": "pwrpackinternational",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Qa",
+    "source": "recruitee",
+    "slug": "qa",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Qoria",
+    "source": "recruitee",
+    "slug": "qoria",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Qrabbl",
+    "source": "recruitee",
+    "slug": "qrabbl",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Qualcomm",
+    "source": "page",
+    "slug": "https://careers.qualcomm.com/",
+    "sector": "Semiconductor & Hardware"
+  },
+  {
+    "name": "Qualifyzegmbh",
+    "source": "recruitee",
+    "slug": "qualifyzegmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Qualinx",
+    "source": "recruitee",
+    "slug": "qualinx",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Qualtrics",
+    "source": "greenhouse",
+    "slug": "qualtrics",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Rackspace",
+    "source": "lever",
+    "slug": "rackspace",
+    "sector": "Cloud & DevOps",
+    "guess": true
+  },
+  {
+    "name": "Railway",
+    "source": "ashby",
+    "slug": "railway",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Ramp",
+    "source": "greenhouse",
+    "slug": "ramp",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Razorpay",
+    "source": "page",
+    "slug": "https://razorpay.com/jobs/",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Rbr",
+    "source": "recruitee",
+    "slug": "rbr",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Rebase1",
+    "source": "recruitee",
+    "slug": "rebase1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Rebuy",
+    "source": "recruitee",
+    "slug": "rebuy",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Reco",
+    "source": "recruitee",
+    "slug": "reco",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Reddit",
+    "source": "greenhouse",
+    "slug": "reddit",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Redis",
+    "source": "ashby",
+    "slug": "redis",
+    "sector": "Cloud & DevOps",
+    "guess": true
+  },
+  {
+    "name": "Redsky",
+    "source": "recruitee",
+    "slug": "redsky",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Remote",
+    "source": "greenhouse",
+    "slug": "remote",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Render",
+    "source": "ashby",
+    "slug": "render",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Replit",
+    "source": "ashby",
+    "slug": "replit",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Riot Games",
+    "source": "greenhouse",
+    "slug": "riotgames",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Ripple",
+    "source": "greenhouse",
+    "slug": "ripple",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Ro",
+    "source": "lever",
+    "slug": "ro",
+    "sector": "Healthcare Tech",
+    "guess": true
+  },
+  {
+    "name": "Robinhood",
+    "source": "greenhouse",
+    "slug": "robinhood",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Roblox",
+    "source": "greenhouse",
+    "slug": "roblox",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Runway",
+    "source": "ashby",
+    "slug": "runway",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Salesforce",
+    "source": "page",
+    "slug": "https://careers.salesforce.com/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Salesloft",
+    "source": "greenhouse",
+    "slug": "salesloft",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Samsara",
+    "source": "greenhouse",
+    "slug": "samsara",
+    "sector": "Logistics & Supply Chain",
+    "guess": true
+  },
+  {
+    "name": "Sanity",
+    "source": "ashby",
+    "slug": "sanity",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "SAP",
+    "source": "jsonld",
+    "slug": "https://jobs.sap.com/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Scale AI",
+    "source": "greenhouse",
+    "slug": "scaleai",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Scaler",
+    "source": "ashby",
+    "slug": "scaler",
+    "sector": "Edtech",
+    "guess": true
+  },
+  {
+    "name": "Secureframe",
+    "source": "lever",
+    "slug": "secureframe",
+    "sector": "Cybersecurity",
+    "guess": true
+  },
+  {
+    "name": "Semag",
+    "source": "recruitee",
+    "slug": "semag",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Seniorenwohnheimweststrasse",
+    "source": "recruitee",
+    "slug": "seniorenwohnheimweststrasse",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Sentry",
+    "source": "ashby",
+    "slug": "sentry",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Sequra",
+    "source": "recruitee",
+    "slug": "sequra",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "ServiceNow",
+    "source": "page",
+    "slug": "https://careers.servicenow.com/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Sfors",
+    "source": "recruitee",
+    "slug": "sfors",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Sharecompanygroup",
+    "source": "recruitee",
+    "slug": "sharecompanygroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Shippingtechnology",
+    "source": "recruitee",
+    "slug": "shippingtechnology",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Shopify",
+    "source": "page",
+    "slug": "https://www.shopify.com/careers/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Shopwareag",
+    "source": "recruitee",
+    "slug": "shopwareag",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Sidensiannoreade",
+    "source": "recruitee",
+    "slug": "sidensiannoreade",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Sierra",
+    "source": "ashby",
+    "slug": "sierra",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Sigmoid",
+    "source": "greenhouse",
+    "slug": "sigmoid",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Signode",
+    "source": "recruitee",
+    "slug": "signode",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Silverein",
+    "source": "recruitee",
+    "slug": "silverein",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Silverpeakllp",
+    "source": "recruitee",
+    "slug": "silverpeakllp",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Simvia",
+    "source": "recruitee",
+    "slug": "simvia",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "SingleStore",
+    "source": "greenhouse",
+    "slug": "singlestore",
+    "sector": "Cloud & DevOps",
+    "guess": true
+  },
+  {
+    "name": "Sioux",
+    "source": "recruitee",
+    "slug": "sioux",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Siwaresystems",
+    "source": "recruitee",
+    "slug": "siwaresystems",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Skillsoft",
+    "source": "greenhouse",
+    "slug": "skillsoft",
+    "sector": "Edtech",
+    "guess": true
+  },
+  {
+    "name": "Skinvision1",
+    "source": "recruitee",
+    "slug": "skinvision1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Skkarriere",
+    "source": "recruitee",
+    "slug": "skkarriere",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Skycellag",
+    "source": "recruitee",
+    "slug": "skycellag",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Skygeo",
+    "source": "recruitee",
+    "slug": "skygeo",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Skytree",
+    "source": "recruitee",
+    "slug": "skytree",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Slice",
+    "source": "greenhouse",
+    "slug": "slice",
+    "sector": "Product & Tech — India",
+    "guess": true
+  },
+  {
+    "name": "Smametalltechnik",
+    "source": "recruitee",
+    "slug": "smametalltechnik",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Smartrecruiting",
+    "source": "recruitee",
+    "slug": "smartrecruiting",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Smartrent",
+    "source": "greenhouse",
+    "slug": "smartrent",
+    "sector": "PropTech & Real Estate",
+    "guess": true
+  },
+  {
+    "name": "Smartsheet",
+    "source": "greenhouse",
+    "slug": "smartsheet",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Smedleygroup",
+    "source": "recruitee",
+    "slug": "smedleygroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Snowflake",
+    "source": "ashby",
+    "slug": "snowflake",
+    "sector": "Product & Tech — Global",
+    "guess": true
+  },
+  {
+    "name": "Snyk",
+    "source": "ashby",
+    "slug": "snyk",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Sobinco",
+    "source": "recruitee",
+    "slug": "sobinco",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "SoFi",
+    "source": "greenhouse",
+    "slug": "sofi",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Solvin",
+    "source": "recruitee",
+    "slug": "solvin",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Solvinity",
+    "source": "recruitee",
+    "slug": "solvinity",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Sophos",
+    "source": "lever",
+    "slug": "sophos",
+    "sector": "Cybersecurity",
+    "guess": true
+  },
+  {
+    "name": "Soravia",
+    "source": "recruitee",
+    "slug": "soravia",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Sovak3",
+    "source": "recruitee",
+    "slug": "sovak3",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Specialisterne",
+    "source": "recruitee",
+    "slug": "specialisterne",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Spectrumam",
+    "source": "recruitee",
+    "slug": "spectrumam",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Spedination",
+    "source": "recruitee",
+    "slug": "spedination",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Spinninrecordsandwmgbenelux",
+    "source": "recruitee",
+    "slug": "spinninrecordsandwmgbenelux",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Spletnik",
+    "source": "recruitee",
+    "slug": "spletnik",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Sportbedrijfdrachten",
+    "source": "recruitee",
+    "slug": "sportbedrijfdrachten",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Spotify",
+    "source": "lever",
+    "slug": "spotify",
+    "sector": "Product & Tech — Global",
+    "guess": true
+  },
+  {
+    "name": "Spotify Technology",
+    "source": "lever",
+    "slug": "spotify",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Spreadgroup",
+    "source": "recruitee",
+    "slug": "spreadgroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Springboard",
+    "source": "greenhouse",
+    "slug": "springboard",
+    "sector": "Edtech",
+    "guess": true
+  },
+  {
+    "name": "Spro",
+    "source": "recruitee",
+    "slug": "spro",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Squarespace",
+    "source": "greenhouse",
+    "slug": "squarespace",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Srahiring",
+    "source": "recruitee",
+    "slug": "srahiring",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Sri",
+    "source": "recruitee",
+    "slug": "sri",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Stability AI",
+    "source": "greenhouse",
+    "slug": "stabilityai",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Stadtwerkeesslingen",
+    "source": "recruitee",
+    "slug": "stadtwerkeesslingen",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Steinemann",
+    "source": "recruitee",
+    "slug": "steinemann",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Steudatsteuerberatungsgesellschaftmbh",
+    "source": "recruitee",
+    "slug": "steudatsteuerberatungsgesellschaftmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Stibbebv",
+    "source": "recruitee",
+    "slug": "stibbebv",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Stichtingvoorieder1",
+    "source": "recruitee",
+    "slug": "stichtingvoorieder1",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Stpaulsschool",
+    "source": "recruitee",
+    "slug": "stpaulsschool",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Strictbv",
+    "source": "recruitee",
+    "slug": "strictbv",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Stripe",
+    "source": "greenhouse",
+    "slug": "stripe",
+    "sector": "Product & Tech — Global",
+    "guess": true
+  },
+  {
+    "name": "Sttls",
+    "source": "recruitee",
+    "slug": "sttls",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Substack",
+    "source": "ashby",
+    "slug": "substack",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Supabase",
+    "source": "ashby",
+    "slug": "supabase",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Supercell",
+    "source": "ashby",
+    "slug": "supercell",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Swiggy",
+    "source": "page",
+    "slug": "https://careers.swiggy.com/",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Sysdig",
+    "source": "lever",
+    "slug": "sysdig",
+    "sector": "Cloud & DevOps",
+    "guess": true
+  },
+  {
+    "name": "Tanium",
+    "source": "greenhouse",
+    "slug": "tanium",
+    "sector": "Cybersecurity",
+    "guess": true
+  },
+  {
+    "name": "TCS",
+    "source": "greenhouse",
+    "slug": "tcs",
+    "sector": "IT Services",
+    "guess": true
+  },
+  {
+    "name": "Tech Mahindra",
+    "source": "page",
+    "slug": "https://careers.techmahindra.com/",
+    "sector": "IT Services"
+  },
+  {
+    "name": "Temporal",
+    "source": "ashby",
+    "slug": "temporal",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Texas Instruments",
+    "source": "page",
+    "slug": "https://careers.ti.com/",
+    "sector": "Semiconductor & Hardware"
+  },
+  {
+    "name": "Thoughtworks",
+    "source": "greenhouse",
+    "slug": "thoughtworks",
+    "sector": "Consulting & Big 4",
+    "guess": true
+  },
+  {
+    "name": "Thoughtworks Technologies",
+    "source": "greenhouse",
+    "slug": "thoughtworks",
+    "sector": "IT Services",
+    "guess": true
+  },
+  {
+    "name": "Tide",
+    "source": "greenhouse",
+    "slug": "tide",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Toast",
+    "source": "greenhouse",
+    "slug": "toast",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Toptal",
+    "source": "lever",
+    "slug": "toptal",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Transferz",
+    "source": "recruitee",
+    "slug": "transferz",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Transperfect",
+    "source": "recruitee",
+    "slug": "transperfect",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Trimetis",
+    "source": "recruitee",
+    "slug": "trimetis",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "TriNet",
+    "source": "lever",
+    "slug": "trinet",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Trustedshops",
+    "source": "recruitee",
+    "slug": "trustedshops",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Turing",
+    "source": "greenhouse",
+    "slug": "turing",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Tweedekamer",
+    "source": "recruitee",
+    "slug": "tweedekamer",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Twilio",
+    "source": "greenhouse",
+    "slug": "twilio",
+    "sector": "Product & Tech — Global",
+    "guess": true
+  },
+  {
+    "name": "Twisto",
+    "source": "recruitee",
+    "slug": "twisto",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Twitch",
+    "source": "greenhouse",
+    "slug": "twitch",
+    "sector": "Media & Entertainment",
+    "guess": true
+  },
+  {
+    "name": "Two Sigma",
+    "source": "page",
+    "slug": "https://careers.twosigma.com/",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Tylko",
+    "source": "recruitee",
+    "slug": "tylko",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Tytantechnologiesgmbh",
+    "source": "recruitee",
+    "slug": "tytantechnologiesgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Uber",
+    "source": "page",
+    "slug": "https://www.uber.com/us/en/careers/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "Uber Freight",
+    "source": "greenhouse",
+    "slug": "uberfreight",
+    "sector": "Logistics & Supply Chain",
+    "guess": true
+  },
+  {
+    "name": "UBS",
+    "source": "page",
+    "slug": "https://www.ubs.com/global/en/careers.html",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Udemy",
+    "source": "greenhouse",
+    "slug": "udemy",
+    "sector": "Edtech",
+    "guess": true
+  },
+  {
+    "name": "Uhlenhaus",
+    "source": "recruitee",
+    "slug": "uhlenhaus",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Unacademy",
+    "source": "page",
+    "slug": "https://unacademy.com/careers/",
+    "sector": "Edtech"
+  },
+  {
+    "name": "Uneedgmbh",
+    "source": "recruitee",
+    "slug": "uneedgmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Uniswap Labs",
+    "source": "ashby",
+    "slug": "uniswap",
+    "sector": "Crypto & Web3",
+    "guess": true
+  },
+  {
+    "name": "Unitedalsaqergroup",
+    "source": "recruitee",
+    "slug": "unitedalsaqergroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Up42Gmbh",
+    "source": "recruitee",
+    "slug": "up42gmbh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "upGrad",
+    "source": "page",
+    "slug": "https://careers.upgrad.com/",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Upgrade",
+    "source": "greenhouse",
+    "slug": "upgrade",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Upslide",
+    "source": "recruitee",
+    "slug": "upslide",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Upwork",
+    "source": "greenhouse",
+    "slug": "upwork",
+    "sector": "HR Tech",
+    "guess": true
+  },
+  {
+    "name": "Urbanarrow",
+    "source": "recruitee",
+    "slug": "urbanarrow",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Urbaplan",
+    "source": "recruitee",
+    "slug": "urbaplan",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Utilityprofit",
+    "source": "recruitee",
+    "slug": "utilityprofit",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Uturn",
+    "source": "recruitee",
+    "slug": "uturn",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Uxstudio",
+    "source": "recruitee",
+    "slug": "uxstudio",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vacancies",
+    "source": "recruitee",
+    "slug": "vacancies",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vacaturesvandervalk",
+    "source": "recruitee",
+    "slug": "vacaturesvandervalk",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Valleifinancegroup",
+    "source": "recruitee",
+    "slug": "valleifinancegroup",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vandervalkhotelvenlo",
+    "source": "recruitee",
+    "slug": "vandervalkhotelvenlo",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vandervalksystemen",
+    "source": "recruitee",
+    "slug": "vandervalksystemen",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vanta",
+    "source": "ashby",
+    "slug": "vanta",
+    "sector": "Cybersecurity",
+    "guess": true
+  },
+  {
+    "name": "Vbgroep",
+    "source": "recruitee",
+    "slug": "vbgroep",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vbkvacatures",
+    "source": "recruitee",
+    "slug": "vbkvacatures",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vdkgroep",
+    "source": "recruitee",
+    "slug": "vdkgroep",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Veaxo",
+    "source": "recruitee",
+    "slug": "veaxo",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vebegoosterreich",
+    "source": "recruitee",
+    "slug": "vebegoosterreich",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vedantu",
+    "source": "page",
+    "slug": "https://www.vedantu.com/info/careers",
+    "sector": "Edtech"
+  },
+  {
+    "name": "Veeva",
+    "source": "lever",
+    "slug": "veeva",
+    "sector": "Healthcare Tech",
+    "guess": true
+  },
+  {
+    "name": "Vercel",
+    "source": "greenhouse",
+    "slug": "vercel",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Verdigroep",
+    "source": "recruitee",
+    "slug": "verdigroep",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Verticalcompute",
+    "source": "recruitee",
+    "slug": "verticalcompute",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vertigis",
+    "source": "recruitee",
+    "slug": "vertigis",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vibes",
+    "source": "recruitee",
+    "slug": "vibes",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vicentra",
+    "source": "recruitee",
+    "slug": "vicentra",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vicompany",
+    "source": "recruitee",
+    "slug": "vicompany",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Victronenergybv",
+    "source": "recruitee",
+    "slug": "victronenergybv",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Viderity",
+    "source": "recruitee",
+    "slug": "viderity",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vijverberg",
+    "source": "recruitee",
+    "slug": "vijverberg",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vilgain",
+    "source": "recruitee",
+    "slug": "vilgain",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Virtusa",
+    "source": "page",
+    "slug": "https://www.virtusa.com/careers/",
+    "sector": "IT Services"
+  },
+  {
+    "name": "Visa",
+    "source": "page",
+    "slug": "https://corporate.visa.com/en/jobs/",
+    "sector": "BFSI & Fintech"
+  },
+  {
+    "name": "Vitestro",
+    "source": "recruitee",
+    "slug": "vitestro",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Volkerrail",
+    "source": "recruitee",
+    "slug": "volkerrail",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vonage",
+    "source": "greenhouse",
+    "slug": "vonage",
+    "sector": "Telecom",
+    "guess": true
+  },
+  {
+    "name": "Vrtlinzbachloecherbachundpartner",
+    "source": "recruitee",
+    "slug": "vrtlinzbachloecherbachundpartner",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Vrzw",
+    "source": "recruitee",
+    "slug": "vrzw",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Wacomeurope",
+    "source": "recruitee",
+    "slug": "wacomeurope",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Wakuli",
+    "source": "recruitee",
+    "slug": "wakuli",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Walmart",
+    "source": "page",
+    "slug": "https://careers.walmart.com/",
+    "sector": "E-commerce & Retail"
+  },
+  {
+    "name": "Waracle",
+    "source": "recruitee",
+    "slug": "waracle",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Waymo",
+    "source": "greenhouse",
+    "slug": "waymo",
+    "sector": "EV & AutoTech",
+    "guess": true
+  },
+  {
+    "name": "Wayve",
+    "source": "ashby",
+    "slug": "wayve",
+    "sector": "EV & AutoTech",
+    "guess": true
+  },
+  {
+    "name": "Wealthfront",
+    "source": "lever",
+    "slug": "wealthfront",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Webflow",
+    "source": "greenhouse",
+    "slug": "webflow",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Wipro",
+    "source": "page",
+    "slug": "https://careers.wipro.com/",
+    "sector": "IT Services"
+  },
+  {
+    "name": "Wise",
+    "source": "greenhouse",
+    "slug": "wise",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Wiz",
+    "source": "ashby",
+    "slug": "wiz",
+    "sector": "Cybersecurity",
+    "guess": true
+  },
+  {
+    "name": "Workday",
+    "source": "page",
+    "slug": "https://www.workday.com/en-us/company/careers/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "WorldQuant",
+    "source": "greenhouse",
+    "slug": "worldquant",
+    "sector": "BFSI & Fintech",
+    "guess": true
+  },
+  {
+    "name": "Writer",
+    "source": "ashby",
+    "slug": "writer",
+    "sector": "AI & Data",
+    "guess": true
+  },
+  {
+    "name": "Zadragruppe",
+    "source": "recruitee",
+    "slug": "zadragruppe",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Zapier",
+    "source": "ashby",
+    "slug": "zapier",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Zara",
+    "source": "recruitee",
+    "slug": "zara",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Zelh",
+    "source": "recruitee",
+    "slug": "zelh",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Zensai",
+    "source": "recruitee",
+    "slug": "zensai",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Zensar Technologies",
+    "source": "page",
+    "slug": "https://www.zensar.com/careers/",
+    "sector": "IT Services"
+  },
+  {
+    "name": "Zeosolar",
+    "source": "recruitee",
+    "slug": "zeosolar",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Zepto",
+    "source": "page",
+    "slug": "https://www.zeptonow.com/careers",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Zeromotorcycles",
+    "source": "recruitee",
+    "slug": "zeromotorcycles",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Zeta",
+    "source": "lever",
+    "slug": "zeta",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Zilverzorg",
+    "source": "recruitee",
+    "slug": "zilverzorg",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Zocdoc",
+    "source": "greenhouse",
+    "slug": "zocdoc",
+    "sector": "Healthcare Tech",
+    "guess": true
+  },
+  {
+    "name": "Zoho",
+    "source": "page",
+    "slug": "https://careers.zoho.com/",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Zomato",
+    "source": "page",
+    "slug": "https://www.zomato.com/careers",
+    "sector": "Product & Tech — India"
+  },
+  {
+    "name": "Zonnehuisgroepamstelland",
+    "source": "recruitee",
+    "slug": "zonnehuisgroepamstelland",
+    "sector": "Discovered (startups & tech)"
+  },
+  {
+    "name": "Zoom",
+    "source": "page",
+    "slug": "https://careers.zoom.us/",
+    "sector": "Product & Tech — Global"
+  },
+  {
+    "name": "ZoomInfo",
+    "source": "greenhouse",
+    "slug": "zoominfo",
+    "sector": "SaaS & B2B Software",
+    "guess": true
+  },
+  {
+    "name": "Zoox",
+    "source": "lever",
+    "slug": "zoox",
+    "sector": "EV & AutoTech",
+    "guess": true
+  },
+  {
+    "name": "Zscaler",
+    "source": "greenhouse",
+    "slug": "zscaler",
+    "sector": "Cybersecurity",
+    "guess": true
+  },
+  {
+    "name": "Zteam",
+    "source": "recruitee",
+    "slug": "zteam",
+    "sector": "Discovered (startups & tech)"
+  }
+]

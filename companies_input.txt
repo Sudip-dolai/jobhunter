@@ -1,0 +1,868 @@
+# Product & Tech — Global
+Google | https://careers.google.com/
+Meta | https://www.metacareers.com/
+Microsoft | https://careers.microsoft.com/
+Apple | https://jobs.apple.com/
+Amazon | https://www.amazon.jobs/
+Netflix | https://jobs.netflix.com/
+Uber | https://www.uber.com/us/en/careers/
+Airbnb | https://careers.airbnb.com/
+Salesforce | https://careers.salesforce.com/
+Adobe | https://www.adobe.com/careers/
+Oracle | https://careers.oracle.com/
+SAP | https://jobs.sap.com/
+Cisco | https://jobs.cisco.com/
+Intel | https://jobs.intel.com/
+NVIDIA | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+LinkedIn | https://careers.linkedin.com/
+Atlassian | https://www.atlassian.com/company/careers/
+Stripe | https://stripe.com/jobs/
+Databricks | https://www.databricks.com/company/careers/
+Snowflake | https://careers.snowflake.com/
+MongoDB | https://www.mongodb.com/careers/
+ServiceNow | https://careers.servicenow.com/
+Workday | https://www.workday.com/en-us/company/careers/
+Spotify | https://www.lifeatspotify.com/jobs
+Shopify | https://www.shopify.com/careers/
+Zoom | https://careers.zoom.us/
+Twilio | https://www.twilio.com/en-us/company/jobs
+Postman | https://www.postman.com/company/careers/
+# Product & Tech — India
+Flipkart | https://www.flipkartcareers.com/
+Zomato | https://www.zomato.com/careers
+Swiggy | https://careers.swiggy.com/
+Razorpay | https://razorpay.com/jobs/
+PhonePe | https://careers.phonepe.com/
+CRED | https://careers.cred.club/
+Meesho | https://meesho.io/jobs
+Groww | https://groww.in/careers
+Paytm | https://careers.paytm.com/
+Ola | https://careers.olacabs.com/
+Nykaa | https://careers.nykaa.com/
+MakeMyTrip | https://careers.makemytrip.com/
+Freshworks | https://careers.freshworks.com/
+Zoho | https://careers.zoho.com/
+BrowserStack | https://www.browserstack.com/careers
+Dream11 | https://careers.dream11.com/
+Zepto | https://www.zeptonow.com/careers
+InMobi | https://www.inmobi.com/company/careers/
+Chargebee | https://www.chargebee.com/careers/
+Juspay | https://juspay.in/careers
+Delhivery | https://www.delhivery.com/careers/
+Slice | https://sliceit.com/careers
+Blinkit | https://blinkit.com/careers
+upGrad | https://careers.upgrad.com/
+Clevertap | https://clevertap.com/company/careers/
+# BFSI & Fintech
+Goldman Sachs | https://www.goldmansachs.com/careers/
+JP Morgan | https://careers.jpmorgan.com/
+Morgan Stanley | https://www.morganstanley.com/careers/
+Deutsche Bank | https://careers.db.com/
+Barclays | https://home.barclays/careers/
+HSBC | https://www.hsbc.com/careers/
+Citibank | https://jobs.citi.com/
+BNY Mellon | https://careers.bnymellon.com/
+UBS | https://www.ubs.com/global/en/careers.html
+DE Shaw | https://www.deshaw.com/careers/
+Jane Street | https://www.janestreet.com/join-jane-street/open-roles/
+Citadel | https://www.citadel.com/careers/
+Optiver | https://optiver.com/working-at-optiver/career-opportunities/
+Two Sigma | https://careers.twosigma.com/
+WorldQuant | https://www.worldquant.com/career/
+American Express | https://aexp.eightfold.ai/careers/
+Visa | https://corporate.visa.com/en/jobs/
+Mastercard | https://careers.mastercard.com/
+PayPal | https://careers.pypl.com/
+# Consulting & Big 4
+Deloitte | https://jobs2.deloitte.com/in/en
+Accenture | https://www.accenture.com/in-en/careers/
+Thoughtworks | https://www.thoughtworks.com/en-in/careers
+Capgemini | https://www.capgemini.com/in-en/careers/
+# IT Services
+TCS | https://careers.tcs.com/
+Infosys | https://career.infosys.com/
+Wipro | https://careers.wipro.com/
+HCL Technologies | https://www.hcltech.com/careers
+Tech Mahindra | https://careers.techmahindra.com/
+LTIMindtree | https://www.ltimindtree.com/careers/
+Mphasis | https://careers.mphasis.com/
+Hexaware | https://hexaware.com/careers/
+Coforge | https://www.coforge.com/careers/
+Persistent Systems | https://www.persistent.com/careers/
+Cognizant | https://careers.cognizant.com/
+IBM | https://www.ibm.com/in-en/employment/
+EPAM Systems | https://www.epam.com/careers/job-listings
+Virtusa | https://www.virtusa.com/careers/
+Zensar Technologies | https://www.zensar.com/careers/
+Birlasoft | https://www.birlasoft.com/careers/
+# E-commerce & Retail
+Myntra | https://careers.myntra.com/
+Walmart | https://careers.walmart.com/
+eBay | https://careers.ebayinc.com/
+# Healthcare Tech
+Practo | https://practo.com/company/careers
+PharmEasy | https://pharmeasy.in/careers
+Innovaccer | https://innovaccer.com/company/careers/
+# Edtech
+Unacademy | https://unacademy.com/careers/
+Vedantu | https://www.vedantu.com/info/careers
+Coursera | https://about.coursera.org/careers/
+Duolingo | https://careers.duolingo.com/
+# Semiconductor & Hardware
+Qualcomm | https://careers.qualcomm.com/
+Texas Instruments | https://careers.ti.com/
+Broadcom | https://careers.broadcom.com/
+AMD | https://careers.amd.com/
+Micron Technology | https://micron.wd1.myworkdayjobs.com/External
+# Telecom
+Jio | https://careers.jio.com/
+Airtel | https://www.airtel.in/careers/
+Ericsson | https://jobs.ericsson.com/
+Nokia | https://www.nokia.com/en_int/careers/
+# SaaS & B2B Software
+Figma
+Notion
+Airtable
+Asana
+Datadog
+Okta
+Cloudflare
+HubSpot
+Zendesk
+Segment
+Amplitude
+Mixpanel
+Gusto
+Rippling
+Deel
+Canva
+Miro
+Dropbox
+Box
+DocuSign
+Zapier
+Retool
+Vercel
+Netlify
+GitLab
+HashiCorp
+Elastic
+Confluent
+PagerDuty
+New Relic
+Splunk
+LaunchDarkly
+Sentry
+PostHog
+Supabase
+PlanetScale
+Linear
+Webflow
+Squarespace
+Monday.com
+ClickUp
+Smartsheet
+Whatfix
+Hasura
+Gupshup
+Yellow.ai
+LeadSquared
+Darwinbox
+Sprinklr
+Druva
+Icertis
+Mindtickle
+Capillary Technologies
+Netcore
+MoEngage
+WebEngage
+Zeta
+HighRadius
+Atlan
+RudderStack
+Observe.AI
+Uniphore
+Intercom
+Calendly
+Loom
+Lucid
+Gong
+Outreach
+Salesloft
+ZoomInfo
+Qualtrics
+Medallia
+Freshdesk
+Postman
+Appsmith
+Clari
+Pendo
+FullStory
+Heap
+Braze
+Iterable
+Klaviyo
+Mailchimp
+SendGrid
+Contentful
+Sanity
+Algolia
+Auth0
+Fivetran
+dbt Labs
+Airbyte
+Snyk
+Kong
+Temporal
+Render
+Railway
+# AI & Data
+OpenAI
+Anthropic
+Cohere
+Hugging Face
+Scale AI
+Palantir
+DataRobot
+C3.ai
+Weights & Biases
+Pinecone
+Glean
+Perplexity
+Mistral AI
+Runway
+Stability AI
+Cerebras
+SambaNova
+Fractal Analytics
+Mu Sigma
+Tredence
+LatentView
+Tiger Analytics
+Sigmoid
+ThoughtSpot
+Dataiku
+Alteryx
+Hex
+Anyscale
+Replit
+Cursor
+Character.AI
+Jasper
+Writer
+Sierra
+Harvey
+Moveworks
+Qure.ai
+# Cybersecurity
+CrowdStrike
+Palo Alto Networks
+Zscaler
+SentinelOne
+Fortinet
+1Password
+Wiz
+Tanium
+Rapid7
+Tenable
+Qualys
+Check Point
+Darktrace
+Sophos
+Lacework
+Abnormal Security
+Cyware
+Quick Heal
+CloudSEK
+Sequretek
+Proofpoint
+Mandiant
+Cybereason
+Vanta
+Drata
+Secureframe
+Arctic Wolf
+Netskope
+# Cloud & DevOps
+DigitalOcean
+Fastly
+Akamai
+Rackspace
+Red Hat
+VMware
+Nutanix
+Pure Storage
+NetApp
+JFrog
+CircleCI
+Harness
+Grafana Labs
+Sysdig
+Docker
+Pulumi
+Fly.io
+Cockroach Labs
+Couchbase
+SingleStore
+Redis
+Neon
+Cloudera
+Veeam
+Commvault
+Zadara
+# BFSI & Fintech
+Plaid
+Brex
+Ramp
+Mercury
+Chime
+Robinhood
+Coinbase
+Affirm
+Klarna
+Adyen
+Revolut
+Monzo
+Wise
+N26
+SoFi
+Block
+Toast
+Marqeta
+Checkout.com
+Zerodha
+Upstox
+Jupiter
+Fi Money
+Navi
+Lendingkart
+Policybazaar
+Pine Labs
+BharatPe
+Cashfree
+Setu
+Open Financial
+MobiKwik
+KreditBee
+Perfios
+Bajaj Finserv
+HDFC Bank
+ICICI Bank
+Axis Bank
+Kotak Mahindra Bank
+Capital One
+Wells Fargo
+Bank of America
+Fidelity
+BlackRock
+Vanguard
+Charles Schwab
+Stripe Atlas
+Bill.com
+Expensify
+Carta
+Betterment
+Wealthfront
+Upgrade
+Dave
+Remitly
+Payoneer
+Paysafe
+Nium
+Airwallex
+Rapyd
+Tide
+Zeta Suite
+Razorpay X
+Money View
+Early Salary
+InCred
+Aye Finance
+Ola Money
+# Edtech
+Udemy
+Khan Academy
+Chegg
+BYJU'S
+Physics Wallah
+Scaler
+Masai
+Eruditus
+Great Learning
+Toppr
+Testbook
+Teachmint
+Classplus
+Leverage Edu
+Coding Ninjas
+GeeksforGeeks
+Newton School
+Skillsoft
+2U
+Instructure
+Pluralsight
+Codecademy
+Quizlet
+MasterClass
+Outschool
+Kahoot
+Guild
+Springboard
+Emeritus
+Lambda School
+PrepInsta
+Internshala
+Cuemath
+Eduonix
+# Telecom
+Vodafone Idea
+Verizon
+AT&T
+T-Mobile
+Comcast
+Vonage
+Bandwidth
+Juniper Networks
+Ciena
+Arista
+Tejas Networks
+Tata Communications
+Sterlite Technologies
+Mavenir
+Rakuten Symphony
+Infinera
+CommScope
+Lumen
+Telstra
+Orange
+Telefonica
+Vodafone
+Sinch
+Kaleyra
+Exotel
+Ozonetel
+Knowlarity
+# Healthcare Tech
+Zocdoc
+Oscar Health
+Tempus
+Veeva
+Teladoc
+Hims & Hers
+Flatiron Health
+Doximity
+Headspace
+Ro
+Color Health
+Cityblock
+HealthifyMe
+Cure.fit
+Eka Care
+Pristyn Care
+MFine
+Medikabazaar
+Philips
+GE Healthcare
+Siemens Healthineers
+Cerner
+Athenahealth
+ModMed
+Elation Health
+Lyra Health
+Spring Health
+Noom
+# E-commerce & Retail
+Amazon
+Etsy
+Wayfair
+Instacart
+DoorDash
+Lenskart
+FirstCry
+Ajio
+Purplle
+Honasa Consumer
+BigBasket
+Urban Company
+Pepperfry
+Bewakoof
+boAt
+Wakefit
+Licious
+FreshToHome
+Chewy
+Target
+Best Buy
+Zalando
+Mercado Libre
+Home Depot
+Lowe's
+Poshmark
+Depop
+Faire
+Grab
+Gojek
+Sea Limited
+Shopee
+Lazada
+Rakuten
+Coupang
+Flipkart Wholesale
+Udaan
+OfBusiness
+Jumbotail
+IndiaMART
+Tata 1mg
+Tata Digital
+Reliance Retail
+Myntra Designs
+# Media & Entertainment
+Disney
+Warner Bros Discovery
+Roblox
+Unity
+Epic Games
+Electronic Arts
+Riot Games
+Activision Blizzard
+Zynga
+MPL
+Games24x7
+Nazara
+ShareChat
+Dailyhunt
+Pocket FM
+Kuku FM
+JioSaavn
+Sony
+Paramount
+Twitch
+Discord
+Reddit
+Pinterest
+Snap
+Medium
+Substack
+Patreon
+Hotstar
+ZEE
+Sony LIV
+Eros
+Gameloft
+Ubisoft
+Supercell
+King
+Niantic
+Glance
+InMobi Glance
+Josh
+Koo
+Spotify Technology
+SoundCloud
+Genius
+# Logistics & Supply Chain
+Shiprocket
+Ecom Express
+XpressBees
+Rivigo
+BlackBuck
+Porter
+Locus
+FarEye
+Flexport
+Maersk
+FedEx
+UPS
+DHL
+Uber Freight
+project44
+Samsara
+LogiNext
+Delhivery Express
+Shadowfax
+Dunzo
+Loadshare
+Zinka
+Gatik
+Convoy
+Transfix
+Fourkites
+Descartes
+Manhattan Associates
+Blue Yonder
+Kinaxis
+o9 Solutions
+# EV & AutoTech
+Tesla
+Rivian
+Lucid Motors
+Ola Electric
+Ather Energy
+Tata Motors
+Mahindra
+Bosch
+Continental
+Aptiv
+Waymo
+Zoox
+Nuro
+Aurora
+Mobileye
+Wayve
+Ultraviolette
+Euler Motors
+Log9
+Zoomcar
+CarDekho
+Spinny
+Cars24
+Droom
+Lucid
+Cruise
+Kodiak
+Embark
+Plus
+Stellantis
+Ford
+General Motors
+Hyundai
+Toyota
+Mercedes-Benz
+BMW
+Volkswagen
+Maruti Suzuki
+Hero MotoCorp
+TVS Motor
+Bajaj Auto
+Revolt Motors
+Simple Energy
+Yulu
+Bounce
+# Manufacturing
+Siemens
+Honeywell
+GE
+ABB
+Schneider Electric
+Rockwell Automation
+3M
+Caterpillar
+Emerson
+Johnson Controls
+Eaton
+Cummins
+Tata Steel
+Larsen & Toubro
+Godrej
+Havells
+Bharat Forge
+Thermax
+Dassault Systemes
+Autodesk
+PTC
+Ansys
+Hexagon
+Bentley Systems
+Altair
+Aveva
+Cognite
+Uptake
+Seeq
+# AgriTech
+DeHaat
+Ninjacart
+Cropin
+AgroStar
+BharatAgri
+Farmart
+Waycool
+Jai Kisan
+Gramophone
+Fasal
+Arya.ag
+Bayer
+Corteva
+John Deere
+Syngenta
+Indigo Ag
+Bushel
+Farmers Business Network
+Trimble
+Climate Corporation
+Agrivi
+Plantix
+# PropTech & Real Estate
+Zillow
+Redfin
+Compass
+Opendoor
+Zumper
+NoBroker
+Housing.com
+MagicBricks
+99acres
+Square Yards
+Nestaway
+Zolo
+CoStar
+WeWork
+Procore
+Matterport
+Houzz
+Livspace
+HomeLane
+Urban Ladder
+Airbnb Luxe
+Zeus Living
+Knock
+Offerpad
+Better.com
+Rocket Companies
+Realtor.com
+Autodesk Construction
+EquipmentShare
+Smartrent
+Latch
+Flyhomes
+# Crypto & Web3
+Binance
+Kraken
+Gemini
+Ripple
+Chainalysis
+Consensys
+Alchemy
+OpenSea
+Uniswap Labs
+Polygon
+CoinDCX
+WazirX
+CoinSwitch
+Phantom
+Ledger
+Circle
+Fireblocks
+Anchorage
+BitGo
+Blockchain.com
+Chainlink Labs
+Solana Labs
+Aptos Labs
+Mysten Labs
+Dapper Labs
+Paradigm
+a16z crypto
+Bitpanda
+Crypto.com
+OKX
+Bybit
+Kucoin
+Ethereum Foundation
+Starkware
+Matter Labs
+Offchain Labs
+MoonPay
+Immutable
+# HR Tech
+Greenhouse
+Lever
+Ashby
+Keka
+greytHR
+Naukri
+Instahyre
+Hirect
+Apna
+Indeed
+Glassdoor
+HackerRank
+HackerEarth
+CodeSignal
+Eightfold
+Beamery
+Phenom
+Paradox
+Remote
+Oyster
+Papaya Global
+Lattice
+Culture Amp
+Leapsome
+15Five
+BambooHR
+Namely
+TriNet
+Paycor
+Paylocity
+Paychex
+ADP
+Dayforce
+Gusto Payroll
+Zenefits
+Justworks
+Workable
+SmartRecruiters
+iCIMS
+Jobvite
+Hired
+Wellfound
+Turing
+Toptal
+Andela
+Crossover
+Upwork
+Fiverr
+Freelancer
+# IT Services
+Mindtree
+Sonata Software
+Cyient
+KPIT
+Tata Elxsi
+Happiest Minds
+Newgen
+Mastek
+Sasken
+Intellect Design Arena
+Nagarro
+Globant
+Endava
+Publicis Sapient
+EPAM
+Luxoft
+Softserve
+Grid Dynamics
+Slalom
+Thoughtworks Technologies
+Xebia
+Tech Mahindra Business
+Genpact
+Conduent
+Concentrix
+Teleperformance
+WNS
+ExlService
+Firstsource
+Hinduja Global
+Ness Digital
+Zensar
+Altimetrik
+Sutherland
+R Systems
+Datamatics
+Ramco
+Quest Global
+L&T Technology Services
+Tata Technologies
+Capgemini Engineering
+Kyndryl
+DXC Technology
+Unisys
+NTT Data
+Fujitsu
+Hitachi
+CGI
+Atos
+Sopra Steria
+Tietoevry
+Wipro Limited

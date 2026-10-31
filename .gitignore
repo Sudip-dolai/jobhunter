@@ -1,0 +1,15 @@
+.env
+*.db
+resumes/
+__pycache__/
+.pytest_cache/
+.secret_key
+.feed_state.json
+backups/
+reports/
+venv/
+.venv/
+*.log
+pipeline_run.log
+discover.log
+.streamlit/secrets.toml

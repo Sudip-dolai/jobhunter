@@ -1,0 +1,488 @@
+HubSpot | 
+Zendesk | 
+Segment | 
+Rippling | 
+Canva | 
+Box | 
+Retool | 
+HashiCorp | 
+Splunk | 
+Monday.com | 
+Whatfix | 
+Hasura | 
+Gupshup | 
+Yellow.ai | 
+LeadSquared | 
+Darwinbox | 
+Sprinklr | 
+Icertis | 
+Capillary Technologies | 
+Netcore | 
+MoEngage | 
+WebEngage | 
+RudderStack | 
+Uniphore | 
+Lucid | 
+Gong | 
+Medallia | 
+Freshdesk | 
+Appsmith | 
+Heap | 
+Mailchimp | 
+SendGrid | 
+Auth0 | 
+dbt Labs | 
+Hugging Face | 
+DataRobot | 
+C3.ai | 
+Weights & Biases | 
+Glean | 
+Mistral AI | 
+SambaNova | 
+Fractal Analytics | 
+Mu Sigma | 
+Tredence | 
+LatentView | 
+Tiger Analytics | 
+ThoughtSpot | 
+Alteryx | 
+Character.AI | 
+Jasper | 
+Moveworks | 
+Qure.ai | 
+CrowdStrike | 
+Palo Alto Networks | 
+SentinelOne | 
+Fortinet | 
+Rapid7 | 
+Tenable | 
+Qualys | 
+Check Point | 
+Darktrace | 
+Lacework | 
+Quick Heal | 
+Sequretek | 
+Proofpoint | 
+Mandiant | 
+Cybereason | 
+Arctic Wolf | 
+DigitalOcean | 
+Akamai | 
+Red Hat | 
+VMware | 
+Nutanix | 
+NetApp | 
+Harness | 
+Grafana Labs | 
+Pulumi | 
+Fly.io | 
+Cockroach Labs | 
+Couchbase | 
+Cloudera | 
+Veeam | 
+Zadara | 
+Klarna | 
+Revolut | 
+Marqeta | 
+Checkout.com | 
+Zerodha | 
+Upstox | 
+Jupiter | 
+Fi Money | 
+Lendingkart | 
+Policybazaar | 
+BharatPe | 
+Cashfree | 
+Setu | 
+Open Financial | 
+MobiKwik | 
+KreditBee | 
+Perfios | 
+Bajaj Finserv | 
+HDFC Bank | 
+ICICI Bank | 
+Axis Bank | 
+Kotak Mahindra Bank | 
+Capital One | 
+Wells Fargo | 
+Bank of America | 
+Fidelity | 
+BlackRock | 
+Vanguard | 
+Charles Schwab | 
+Stripe Atlas | 
+Remitly | 
+Paysafe | 
+Rapyd | 
+Zeta Suite | 
+Razorpay X | 
+Money View | 
+Early Salary | 
+InCred | 
+Aye Finance | 
+Ola Money | 
+Chegg | 
+BYJU'S | 
+Physics Wallah | 
+Masai | 
+Eruditus | 
+Great Learning | 
+Toppr | 
+Testbook | 
+Teachmint | 
+Classplus | 
+Leverage Edu | 
+Coding Ninjas | 
+GeeksforGeeks | 
+Newton School | 
+Pluralsight | 
+Codecademy | 
+Quizlet | 
+Kahoot | 
+Emeritus | 
+Lambda School | 
+PrepInsta | 
+Internshala | 
+Cuemath | 
+Eduonix | 
+Vodafone Idea | 
+Verizon | 
+AT&T | 
+T-Mobile | 
+Comcast | 
+Juniper Networks | 
+Ciena | 
+Arista | 
+Tejas Networks | 
+Tata Communications | 
+Sterlite Technologies | 
+Mavenir | 
+Rakuten Symphony | 
+Infinera | 
+CommScope | 
+Telstra | 
+Orange | 
+Telefonica | 
+Vodafone | 
+Sinch | 
+Kaleyra | 
+Exotel | 
+Ozonetel | 
+Knowlarity | 
+Oscar Health | 
+Tempus | 
+Teladoc | 
+Headspace | 
+Cityblock | 
+HealthifyMe | 
+Cure.fit | 
+Eka Care | 
+Pristyn Care | 
+MFine | 
+Medikabazaar | 
+Philips | 
+GE Healthcare | 
+Siemens Healthineers | 
+Cerner | 
+Athenahealth | 
+ModMed | 
+Spring Health | 
+Noom | 
+Etsy | 
+Wayfair | 
+DoorDash | 
+Lenskart | 
+FirstCry | 
+Ajio | 
+Purplle | 
+Honasa Consumer | 
+BigBasket | 
+Urban Company | 
+Pepperfry | 
+Bewakoof | 
+boAt | 
+Wakefit | 
+Licious | 
+FreshToHome | 
+Chewy | 
+Target | 
+Best Buy | 
+Zalando | 
+Mercado Libre | 
+Home Depot | 
+Lowe's | 
+Depop | 
+Grab | 
+Gojek | 
+Sea Limited | 
+Shopee | 
+Lazada | 
+Rakuten | 
+Flipkart Wholesale | 
+Udaan | 
+OfBusiness | 
+Jumbotail | 
+IndiaMART | 
+Tata 1mg | 
+Tata Digital | 
+Reliance Retail | 
+Myntra Designs | 
+Warner Bros Discovery | 
+Unity | 
+Electronic Arts | 
+Activision Blizzard | 
+Zynga | 
+MPL | 
+Games24x7 | 
+Nazara | 
+ShareChat | 
+Dailyhunt | 
+Kuku FM | 
+JioSaavn | 
+Sony | 
+Paramount | 
+Snap | 
+ZEE | 
+Sony LIV | 
+Eros | 
+Gameloft | 
+Ubisoft | 
+King | 
+InMobi Glance | 
+Josh | 
+Koo | 
+SoundCloud | 
+Shiprocket | 
+Ecom Express | 
+XpressBees | 
+Rivigo | 
+BlackBuck | 
+Locus | 
+FarEye | 
+Maersk | 
+FedEx | 
+UPS | 
+DHL | 
+LogiNext | 
+Delhivery Express | 
+Shadowfax | 
+Dunzo | 
+Zinka | 
+Gatik | 
+Convoy | 
+Transfix | 
+Descartes | 
+Manhattan Associates | 
+Blue Yonder | 
+Kinaxis | 
+o9 Solutions | 
+Tesla | 
+Rivian | 
+Ola Electric | 
+Ather Energy | 
+Tata Motors | 
+Mahindra | 
+Bosch | 
+Continental | 
+Aptiv | 
+Zoox | 
+Aurora | 
+Mobileye | 
+Ultraviolette | 
+Euler Motors | 
+Log9 | 
+Zoomcar | 
+CarDekho | 
+Spinny | 
+Cars24 | 
+Droom | 
+Cruise | 
+Embark | 
+Plus | 
+Stellantis | 
+Ford | 
+General Motors | 
+Hyundai | 
+Toyota | 
+Mercedes-Benz | 
+BMW | 
+Volkswagen | 
+Maruti Suzuki | 
+Hero MotoCorp | 
+TVS Motor | 
+Bajaj Auto | 
+Revolt Motors | 
+Simple Energy | 
+Yulu | 
+Siemens | 
+Honeywell | 
+GE | 
+ABB | 
+Schneider Electric | 
+Rockwell Automation | 
+3M | 
+Caterpillar | 
+Emerson | 
+Johnson Controls | 
+Eaton | 
+Cummins | 
+Tata Steel | 
+Larsen & Toubro | 
+Godrej | 
+Havells | 
+Bharat Forge | 
+Thermax | 
+Dassault Systemes | 
+Autodesk | 
+PTC | 
+Ansys | 
+Hexagon | 
+Bentley Systems | 
+Altair | 
+Aveva | 
+Uptake | 
+Seeq | 
+DeHaat | 
+Ninjacart | 
+Cropin | 
+AgroStar | 
+BharatAgri | 
+Farmart | 
+Waycool | 
+Jai Kisan | 
+Gramophone | 
+Fasal | 
+Arya.ag | 
+Bayer | 
+Corteva | 
+John Deere | 
+Syngenta | 
+Indigo Ag | 
+Bushel | 
+Farmers Business Network | 
+Trimble | 
+Climate Corporation | 
+Agrivi | 
+Plantix | 
+Zillow | 
+Redfin | 
+Compass | 
+Opendoor | 
+Zumper | 
+NoBroker | 
+Housing.com | 
+MagicBricks | 
+99acres | 
+Square Yards | 
+Nestaway | 
+Zolo | 
+WeWork | 
+Procore | 
+Matterport | 
+Livspace | 
+HomeLane | 
+Urban Ladder | 
+Airbnb Luxe | 
+Zeus Living | 
+Offerpad | 
+Better.com | 
+Rocket Companies | 
+Realtor.com | 
+Autodesk Construction | 
+EquipmentShare | 
+Flyhomes | 
+Chainalysis | 
+Polygon | 
+CoinDCX | 
+WazirX | 
+CoinSwitch | 
+Blockchain.com | 
+Chainlink Labs | 
+Solana Labs | 
+Aptos Labs | 
+Mysten Labs | 
+Crypto.com | 
+Kucoin | 
+Starkware | 
+Matter Labs | 
+Offchain Labs | 
+Keka | 
+greytHR | 
+Instahyre | 
+Hirect | 
+Apna | 
+Glassdoor | 
+HackerEarth | 
+CodeSignal | 
+Eightfold | 
+Phenom | 
+Papaya Global | 
+Leapsome | 
+BambooHR | 
+Namely | 
+Paycor | 
+Paylocity | 
+Paychex | 
+ADP | 
+Dayforce | 
+Gusto Payroll | 
+Zenefits | 
+Workable | 
+SmartRecruiters | 
+iCIMS | 
+Hired | 
+Wellfound | 
+Crossover | 
+Fiverr | 
+Freelancer | 
+Mindtree | 
+Sonata Software | 
+Cyient | 
+KPIT | 
+Tata Elxsi | 
+Happiest Minds | 
+Newgen | 
+Mastek | 
+Sasken | 
+Intellect Design Arena | 
+Nagarro | 
+Globant | 
+Endava | 
+Publicis Sapient | 
+EPAM | 
+Luxoft | 
+Softserve | 
+Grid Dynamics | 
+Slalom | 
+Xebia | 
+Tech Mahindra Business | 
+Genpact | 
+Conduent | 
+Concentrix | 
+Teleperformance | 
+WNS | 
+ExlService | 
+Firstsource | 
+Hinduja Global | 
+Ness Digital | 
+Zensar | 
+Altimetrik | 
+Sutherland | 
+R Systems | 
+Datamatics | 
+Ramco | 
+Quest Global | 
+L&T Technology Services | 
+Tata Technologies | 
+Capgemini Engineering | 
+Kyndryl | 
+DXC Technology | 
+Unisys | 
+NTT Data | 
+Fujitsu | 
+Hitachi | 
+CGI | 
+Atos | 
+Sopra Steria | 
+Tietoevry | 
+Wipro Limited | 

@@ -1,0 +1,36 @@
+# Render Blueprint: New > Blueprint > pick your GitHub repo. Secrets are asked for in the dashboard (never stored in git).
+services:
+  - type: web
+    name: jobhunter
+    runtime: docker
+    plan: free                  # free services sleep after 15 min without visitors and wake in about a minute
+    region: singapore           # closest to your Neon database (ap-southeast-1)
+    healthCheckPath: /_stcore/health
+    envVars:
+      - key: DATABASE_URL       # postgresql+psycopg2://USER:PASSWORD@HOST/neondb?sslmode=require  (direct host, no -pooler)
+        sync: false
+      - key: SECRET_KEY
+        sync: false
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: FEATURE_V2_SEARCH
+        value: "1"
+      - key: ALLOW_SIGNUP       # set to 0 after you have created your own account
+        value: "1"
+
+  # Optional PAID worker that finds jobs every 30 minutes. Render has no free worker or cron job.
+  # Free alternative: the GitHub Actions workflow in .github/workflows/pipeline.yml. Use one of the two, not both.
+  # - type: worker
+  #   name: jobhunter-worker
+  #   runtime: docker
+  #   plan: starter
+  #   region: singapore
+  #   envVars:
+  #     - key: MODE
+  #       value: worker
+  #     - key: DATABASE_URL
+  #       sync: false
+  #     - key: SECRET_KEY
+  #       sync: false
+  #     - key: TELEGRAM_BOT_TOKEN
+  #       sync: false

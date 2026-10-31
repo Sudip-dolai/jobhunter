@@ -1,0 +1,12 @@
+sqlalchemy>=2.0
+pydantic>=2.0
+requests>=2.31
+pypdf>=4.0
+python-dotenv>=1.0
+openai>=1.30
+streamlit>=1.40
+psycopg2-binary>=2.9
+pytest>=8.0
+# Optional, only for local autofill (app/apply.py):
+# playwright>=1.44
+cryptography>=42.0

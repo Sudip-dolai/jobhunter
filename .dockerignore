@@ -1,0 +1,7 @@
+.env
+*.db
+resumes/
+.secret_key
+__pycache__/
+.pytest_cache/
+tests/
